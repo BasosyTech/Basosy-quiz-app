@@ -48,7 +48,7 @@ Players pick a category, answer a random set of questions against a countdown ti
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/basosytech/Basosy-quiz-app.git
 ```
 
 2. Open the project folder.
@@ -116,12 +116,12 @@ Each category needs at least 15 questions, since that's how many are drawn per q
 
 ---
 
-## 👤 Author
-
-**[basosytech](https://github.com/basosytech)**
-
----
-
 ## 📄 License
 
 This project is for learning and portfolio purposes.
+
+---
+👨‍💻 Author
+Abdo (BasosyTech)
+GitHub: @BasosyTech
+
