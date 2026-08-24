@@ -121,7 +121,7 @@ Each category needs at least 15 questions, since that's how many are drawn per q
 This project is for learning and portfolio purposes.
 
 ---
-👨‍💻 Author
-Abdo (BasosyTech)
-GitHub: @BasosyTech
+## 👨‍💻 Author
+**Abdo (BasosyTech)**
+- GitHub: [@BasosyTech](https://github.com/BasosyTech)
 
