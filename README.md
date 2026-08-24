@@ -72,6 +72,11 @@ Quiz-App/
 │   ├── islamic.json         # questions for the "islamic" category
 │   └── ...                  # one JSON file per category
 │
+├── screenshots/
+│   ├── start.png
+│   ├── quiz.png
+│   └── results.png
+│
 ├── favicon.svg
 ├── .editorconfig
 ├── index.html
