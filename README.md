@@ -1,7 +1,10 @@
 # 🧩 Quiz App
 
-A responsive quiz application built with **HTML**, **CSS**, and **Vanilla JavaScript**.
-Players pick a category, answer a random set of questions against a countdown timer, and get a final score with a full answer review at the end. The app is fully Arabic (RTL) and driven entirely by JSON data files, so new categories and questions can be added without touching the app logic.
+A responsive quiz application built with **HTML, CSS, and Vanilla JavaScript**.
+
+Players choose a category, answer 15 randomly selected questions with a 15-second countdown for each question, and receive a final score with a detailed answer review.
+
+The quiz content is stored in JSON files, making it easy to add new categories and questions without modifying the core quiz logic.
 
 ---
 
@@ -13,64 +16,90 @@ Players pick a category, answer a random set of questions against a countdown ti
 
 ## ✨ Features
 
-- Multiple quiz categories, each rendered with its own inline SVG icon
-- 15 random questions per quiz, selected with an unbiased partial Fisher–Yates shuffle (no repeats)
-- Answers shuffled independently for every question
-- 15-second countdown per question, auto-advances when time runs out
-- Progress indicator (bullets) showing answered vs. remaining questions
-- Final score screen with an animated percentage ring (pure CSS `conic-gradient`, no images)
-- Full answer review after the quiz — each question is expandable and shows your answer vs. the correct one when wrong
-- Fully right-to-left Arabic interface
-- Data-driven: categories and questions are loaded from JSON, not hardcoded in the app
+- Multiple quiz categories with custom inline SVG icons
+- 15 randomly selected questions per quiz
+- Partial Fisher–Yates shuffle for unbiased question selection without repetition
+- Answers shuffled independently for each selected question
+- 15-second countdown for every question
+- Automatically moves to the next question when the timer expires
+- Progress indicator for the quiz
+- Final score with an animated percentage ring using pure CSS
+- Detailed answer review showing:
+  - The player's answer
+  - The correct answer when the player's answer is wrong
+- Expandable answer review using native `<details>` and `<summary>`
+- Fully right-to-left (RTL) Arabic interface
+- Data-driven question system using JSON files
+- Categories and quiz data are loaded dynamically
 
 ---
 
 ## 🛠 Technologies Used
 
-- HTML5 (semantic sections, native `<details>`/`<summary>`)
-- CSS3 (custom properties, `:has()`, `clamp()` for responsive sizing)
-- Vanilla JavaScript (ES6 modules, `fetch`, JSON import attributes)
+- **HTML5**
+  - Semantic HTML
+  - Native `<details>` / `<summary>`
+
+- **CSS3**
+  - CSS Custom Properties
+  - `clamp()`
+  - `:has()`
+  - `conic-gradient()`
+  - CSS animations
+  - Responsive layout with Flexbox
+
+- **JavaScript**
+  - Vanilla JavaScript
+  - ES Modules
+  - `fetch()`
+  - JSON Import Attributes
+  - `async/await`
+  - DOM manipulation
+  - `DocumentFragment`
+  - `structuredClone()`
+  - `requestAnimationFrame()`
 
 ---
 
-## 📷 Screenshots
+## 🎯 How Question Selection Works
 
-### Start Screen & Quiz & Results
+Each category can contain more questions than the 15 used in a single quiz.
 
-![Start Screen](screenshots/start.png)
-![Quiz](screenshots/quiz.png)
-![Results](screenshots/results.png)
+Instead of shuffling the entire question array and then taking the first 15 questions, the app uses a **partial Fisher–Yates shuffle**.
+
+Only the required number of positions are randomized, allowing the app to select 15 unique questions without fully shuffling the entire dataset.
+
+The original question data is not modified.
+
+Answers for each selected question are then shuffled independently before being displayed.
 
 ---
 
-## 🚀 How to Run
+## 📊 Quiz Flow
 
-1. Clone the repository.
-
-```bash
-git clone https://github.com/basosytech/Basosy-quiz-app.git
-```
-
-2. Open the project folder.
-3. Open `index.html`
-
-or
-
-Run it using **Live Server**.
+1. The player selects a category.
+2. The corresponding JSON file is loaded.
+3. 15 unique questions are randomly selected.
+4. The answers for each question are shuffled.
+5. The quiz starts with a 15-second countdown.
+6. The player submits an answer or the timer expires.
+7. The app records the result and moves to the next question.
+8. After the final question, the score is calculated.
+9. The player can review all answers on the results screen.
 
 ---
 
 ## 📁 Project Structure
 
-```
+```text
 Quiz-App/
 │
 ├── data/
-│   ├── categories.json      # list of available categories (logicalName + UiName)
-│   ├── faith_law.json       # questions for the "faith & law" category
-│   ├── islamic_history.json # questions for the "islamic history" category
-│   ├── islamic.json         # questions for the "islamic" category
-│   └── ...                  # one JSON file per category
+│   ├── categories.json
+│   ├── faith_law.json
+│   ├── islamic_history.json
+│   ├── islamic.json
+│   └── ...
 │
 ├── screenshots/
 │   ├── start.png
@@ -82,51 +111,64 @@ Quiz-App/
 ├── index.html
 ├── main.js
 └── master.css
-```
+🗂 Data Format
 
----
+Categories are registered in categories.json:
 
-## 🗂 Data Format
-
-Adding a new category takes two steps:
-
-**1. Register it in `categories.json`:**
-
-```json
 {
-  "logicalName": "html",
-  "UiName": "HTML"
+  "logicalName": "islamic_history",
+  "uiName": "التاريخ الإسلامي"
 }
-```
 
-**2. Create `data/<logicalName>.json`** with its questions:
+Each category has its own JSON file:
 
-```json
+data/islamic_history.json
+
+Example:
+
 {
-  "category": "التاريخ الاسلامي",
+  "category": "التاريخ الإسلامي",
   "questions": [
     {
       "id": 1,
       "question": "...",
       "answers": [
-        { "text": "...", "isCorrect": true },
-        { "text": "...", "isCorrect": false }
+        {
+          "text": "...",
+          "isCorrect": true
+        },
+        {
+          "text": "...",
+          "isCorrect": false
+        }
       ]
     }
   ]
 }
-```
 
-Each category needs at least 15 questions, since that's how many are drawn per quiz.
+Each category should contain at least 15 questions, since the application selects 15 questions for every quiz.
 
----
+🚀 How to Run
+Clone the repository.
+git clone https://github.com/basosytech/Basosy-quiz-app.git
+Open the project folder.
+Run the project using a local development server such as VS Code Live Server.
 
-## 📄 License
+A local server is recommended because the application loads JSON files using fetch().
+
+📷 Screenshots
+Start Screen
+
+Quiz Screen
+
+Results Screen
+
+📄 License
 
 This project is for learning and portfolio purposes.
 
----
-## 👨‍💻 Author
-**Abdo (BasosyTech)**
-- GitHub: [@BasosyTech](https://github.com/BasosyTech)
+👨‍💻 Author
 
+Abdo (BasosyTech)
+
+GitHub: @BasosyTech
