@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>اختبر معلوماتك | مسابقة إسلامية</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Inter:ital,opsz@0,14..32;1,14..32&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <link rel="stylesheet" href="master.css" />
+  </head>
+  <body>
+    <div class="quiz-container">
+      <section class="start-screen" id="start-screen">
+        <h2>تحدي المعرفة</h2>
+        <p>اختبر معلوماتك وارتقِ بمستواك!</p>
+        <div class="category-list"></div>
+        <button class="start-btn" id="start-btn">ابدأ الاختبار</button>
+      </section>
+      <section class="quiz-app" id="quiz-app" hidden>
+        <div class="quiz-info">
+          <div class="category-box">
+            التصنيف: <span class="category-name"></span>
+          </div>
+          <div class="questions-number">
+            الأسئلة:
+            <span class="numbers-wrapper">
+              <span id="current-question-number"></span>/<span
+                id="max-question-number"
+              ></span
+            ></span>
+          </div>
+        </div>
+        <div class="quiz-area">
+          <h2 class="quiz-title"></h2>
+          <form>
+            <div class="answer-area"></div>
+            <button type="submit" class="submit">التالي</button>
+          </form>
+          <div class="status-bar">
+            <div class="bullets"></div>
+            <div class="countdown"></div>
+          </div>
+        </div>
+      </section>
+      <section class="result-screen" id="result-screen" hidden>
+        <p class="result-screen__score">
+          <span class="score-value"></span> / <span class="total-score"></span>
+        </p>
+        <h2 class="result-screen__title">انتهى الاختبار!</h2>
+        <div class="result-screen__message"></div>
+        <div class="result-screen__answer-review answer-review"></div>
+        <button class="result-screen__again" id="play-again">
+          العب مرة أخرى
+        </button>
+      </section>
+    </div>
+    <script src="main.js" type="module"></script>
+  </body>
+</html>

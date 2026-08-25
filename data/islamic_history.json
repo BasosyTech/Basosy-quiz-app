@@ -1,0 +1,4075 @@
+{
+  "category": "التاريخ الاسلامي",
+  "questions": [
+    {
+      "id": 1,
+      "question": "متى ولد رسول الله ﷺ ؟",
+      "answers": [
+        {
+          "text": "عام الفيل ٥٧١ م",
+          "isCorrect": true
+        },
+        {
+          "text": "عام الفيل ٥٧٥ م",
+          "isCorrect": false
+        },
+        {
+          "text": "عام الفيل ٥٦٩ م",
+          "isCorrect": false
+        },
+        {
+          "text": "عام الفيل ٥٨٠ م",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "ما اسم والد رسول الله ﷺ ؟",
+      "answers": [
+        {
+          "text": "السيد عبد الله بن عبد المطلب",
+          "isCorrect": true
+        },
+        {
+          "text": "السيد عبد المطلب بن هاشم",
+          "isCorrect": false
+        },
+        {
+          "text": "السيد أبو طالب بن عبد المطلب",
+          "isCorrect": false
+        },
+        {
+          "text": "السيد حمزة بن عبد المطلب",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "ما اسم والدة رسول الله ﷺ ؟",
+      "answers": [
+        {
+          "text": "السيدة آمنة بنت وهب الزهرية",
+          "isCorrect": true
+        },
+        {
+          "text": "السيدة هالة بنت وهيب",
+          "isCorrect": false
+        },
+        {
+          "text": "السيدة فاطمة بنت أسد",
+          "isCorrect": false
+        },
+        {
+          "text": "السيدة حليمة بنت أبي ذؤيب",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "كم كان عمر النبي ﷺ عند وفاة أبيه ؟",
+      "answers": [
+        {
+          "text": "كان جنيناً في الشهر الثاني من حمل أمه",
+          "isCorrect": true
+        },
+        {
+          "text": "كان عمره سنتين",
+          "isCorrect": false
+        },
+        {
+          "text": "كان عمره ستة أشهر",
+          "isCorrect": false
+        },
+        {
+          "text": "كان جنيناً في الشهر السابع من حمل أمه",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "أين توفي عبد الله والد رسول الله ﷺ ؟",
+      "answers": [
+        {
+          "text": "في المدينة المنورة",
+          "isCorrect": true
+        },
+        {
+          "text": "في مكة المكرمة",
+          "isCorrect": false
+        },
+        {
+          "text": "في الطائف",
+          "isCorrect": false
+        },
+        {
+          "text": "في بصرى الشام",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "ماذا كان يعمل عبد الله والد النبي ﷺ قبل وفاته ؟",
+      "answers": [
+        {
+          "text": "كان يعمل بالتجارة",
+          "isCorrect": true
+        },
+        {
+          "text": "كان يعمل بالزراعة",
+          "isCorrect": false
+        },
+        {
+          "text": "كان يعمل بالرعي",
+          "isCorrect": false
+        },
+        {
+          "text": "كان يعمل بالحدادة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "من قام بتسمية النبي ﷺ باسم محمد ؟",
+      "answers": [
+        {
+          "text": "جده عبد المطلب",
+          "isCorrect": true
+        },
+        {
+          "text": "والده عبد الله",
+          "isCorrect": false
+        },
+        {
+          "text": "عمه أبو طالب",
+          "isCorrect": false
+        },
+        {
+          "text": "والدته آمنة بنت وهب",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "ما اسم حاضنة النبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "أم أيمن (بركة الحبشية) رضي الله عنها",
+          "isCorrect": true
+        },
+        {
+          "text": "ثويبة مولاة أبي لهب",
+          "isCorrect": false
+        },
+        {
+          "text": "حليمة السعدية رضي الله عنها",
+          "isCorrect": false
+        },
+        {
+          "text": "الشفاء بنت عوف رضي الله عنها",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "من أول من أرضع النبي ﷺ بعد أمه ؟",
+      "answers": [
+        {
+          "text": "ثويبة جارية أبي لهب",
+          "isCorrect": true
+        },
+        {
+          "text": "حليمة السعدية",
+          "isCorrect": false
+        },
+        {
+          "text": "أم أيمن الحبشية",
+          "isCorrect": false
+        },
+        {
+          "text": "فاطمة بنت أسد",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "من المرأة التي كان يقول عنها النبي ﷺ (أمي بعد أمي) ؟",
+      "answers": [
+        {
+          "text": "السيدة فاطمة بنت أسد رضي الله عنها",
+          "isCorrect": true
+        },
+        {
+          "text": "السيدة حليمة السعدية رضي الله عنها",
+          "isCorrect": false
+        },
+        {
+          "text": "السيدة أم أيمن رضي الله عنها",
+          "isCorrect": false
+        },
+        {
+          "text": "السيدة خديجة بنت خويلد رضي الله عنها",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "من هي مرضعة النبي ﷺ في بني سعد ؟",
+      "answers": [
+        {
+          "text": "السيدة حليمة السعدية رضي الله عنها",
+          "isCorrect": true
+        },
+        {
+          "text": "السيدة ثويبة القرشية رضي الله عنها",
+          "isCorrect": false
+        },
+        {
+          "text": "السيدة أم أيمن رضي الله عنها",
+          "isCorrect": false
+        },
+        {
+          "text": "السيدة فاطمة بنت أسد رضي الله عنها",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "كم كان عمر رسول الله ﷺ عند وفاة أمه ؟",
+      "answers": [
+        {
+          "text": "ست سنوات",
+          "isCorrect": true
+        },
+        {
+          "text": "أربع سنوات",
+          "isCorrect": false
+        },
+        {
+          "text": "ثماني سنوات",
+          "isCorrect": false
+        },
+        {
+          "text": "خمس سنوات",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "أين حصلت حادثة شق الصدر الأولى التي تعرض لها رسول الله ﷺ ؟",
+      "answers": [
+        {
+          "text": "في مضارب بني سعد وهو رضيع ﷺ",
+          "isCorrect": true
+        },
+        {
+          "text": "في مكة المكرمة وهو شاب",
+          "isCorrect": false
+        },
+        {
+          "text": "في المدينة المنورة بعد الهجرة",
+          "isCorrect": false
+        },
+        {
+          "text": "في غار حراء عند نزول الوحي",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "من كفل رسول الله ﷺ بعد وفاة أمه ؟",
+      "answers": [
+        {
+          "text": "جده عبد المطلب",
+          "isCorrect": true
+        },
+        {
+          "text": "عمه أبو طالب",
+          "isCorrect": false
+        },
+        {
+          "text": "عمه حمزة بن عبد المطلب",
+          "isCorrect": false
+        },
+        {
+          "text": "عمه العباس بن عبد المطلب",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "كم كان عمر النبي ﷺ عند وفاة جده ؟",
+      "answers": [
+        {
+          "text": "ثماني سنوات",
+          "isCorrect": true
+        },
+        {
+          "text": "ست سنوات",
+          "isCorrect": false
+        },
+        {
+          "text": "عشر سنوات",
+          "isCorrect": false
+        },
+        {
+          "text": "سبع سنوات",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "question": "من تولى كفالة النبي ﷺ بعد جده ؟",
+      "answers": [
+        {
+          "text": "عمه أبو طالب",
+          "isCorrect": true
+        },
+        {
+          "text": "عمه العباس بن عبد المطلب",
+          "isCorrect": false
+        },
+        {
+          "text": "عمه حمزة بن عبد المطلب",
+          "isCorrect": false
+        },
+        {
+          "text": "عمه أبو لهب",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "question": "إلى أين سافر رسول الله ﷺ في أول رحلة تجارية مع عمه ؟",
+      "answers": [
+        {
+          "text": "سافر إلى بصرى الشام",
+          "isCorrect": true
+        },
+        {
+          "text": "سافر إلى اليمن",
+          "isCorrect": false
+        },
+        {
+          "text": "سافر إلى الحبشة",
+          "isCorrect": false
+        },
+        {
+          "text": "سافر إلى العراق",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "question": "ما هو أول حلف شارك فيه النبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "حلف الفضول والمقصود منه نصرة المظلومين في مكة",
+          "isCorrect": true
+        },
+        {
+          "text": "حلف المطيبين لحماية الكعبة",
+          "isCorrect": false
+        },
+        {
+          "text": "حلف الأحلاف لنصرة قريش",
+          "isCorrect": false
+        },
+        {
+          "text": "حلف بني هاشم للدفاع عن مكة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "question": "ما اسم قابلة النبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "الشفاء أم عبد الرحمن بن عوف",
+          "isCorrect": true
+        },
+        {
+          "text": "أم أيمن بركة الحبشية",
+          "isCorrect": false
+        },
+        {
+          "text": "حليمة السعدية",
+          "isCorrect": false
+        },
+        {
+          "text": "ثويبة مولاة أبي لهب",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "question": "أين ماتت أم رسول الله ﷺ ؟",
+      "answers": [
+        {
+          "text": "بين مكة والمدينة في منطقة الأبواء",
+          "isCorrect": true
+        },
+        {
+          "text": "في مكة المكرمة",
+          "isCorrect": false
+        },
+        {
+          "text": "في المدينة المنورة",
+          "isCorrect": false
+        },
+        {
+          "text": "في الطائف",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "question": "ما هي الحرفة التي عمل بها رسول الله ﷺ كباقي الأنبياء ؟",
+      "answers": [
+        {
+          "text": "رعي الغنم",
+          "isCorrect": true
+        },
+        {
+          "text": "التجارة",
+          "isCorrect": false
+        },
+        {
+          "text": "الزراعة",
+          "isCorrect": false
+        },
+        {
+          "text": "النجارة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "question": "كم كان عمر النبي ﷺ عندما سافر إلى الشام ثانية ؟",
+      "answers": [
+        {
+          "text": "خمسة وعشرون عاماً",
+          "isCorrect": true
+        },
+        {
+          "text": "عشرون عاماً",
+          "isCorrect": false
+        },
+        {
+          "text": "ثلاثون عاماً",
+          "isCorrect": false
+        },
+        {
+          "text": "ثمانية عشر عاماً",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "question": "لماذا سافر النبي ﷺ إلى الشام المرة الثانية ؟",
+      "answers": [
+        {
+          "text": "سافر في تجارة خديجة بنت خويلد",
+          "isCorrect": true
+        },
+        {
+          "text": "سافر مع عمه أبي طالب للتجارة",
+          "isCorrect": false
+        },
+        {
+          "text": "سافر للدعوة إلى الإسلام",
+          "isCorrect": false
+        },
+        {
+          "text": "سافر لزيارة أقاربه هناك",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "question": "كان يطلق على النبي ﷺ لقب من أهل مكة ما هو ؟",
+      "answers": [
+        {
+          "text": "الصادق الأمين",
+          "isCorrect": true
+        },
+        {
+          "text": "الصادق الحكيم",
+          "isCorrect": false
+        },
+        {
+          "text": "الأمين الكريم",
+          "isCorrect": false
+        },
+        {
+          "text": "الحليم الرشيد",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "question": "من هو عم النبي ﷺ وأخوه من الرضاعة ؟",
+      "answers": [
+        {
+          "text": "حمزة بن عبد المطلب ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "العباس بن عبد المطلب ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "أبو طالب بن عبد المطلب",
+          "isCorrect": false
+        },
+        {
+          "text": "الحارث بن عبد المطلب",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "question": "ما اسم الغار الذي كان النبي ﷺ يتفكر فيه قبل البعثة ؟",
+      "answers": [
+        {
+          "text": "غار حراء",
+          "isCorrect": true
+        },
+        {
+          "text": "غار ثور",
+          "isCorrect": false
+        },
+        {
+          "text": "غار الهجرة",
+          "isCorrect": false
+        },
+        {
+          "text": "غار المدينة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "question": "من هي أول امرأة تزوجها النبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "السيدة خديجة بنت خويلد رضي الله عنها",
+          "isCorrect": true
+        },
+        {
+          "text": "السيدة عائشة بنت أبي بكر رضي الله عنها",
+          "isCorrect": false
+        },
+        {
+          "text": "السيدة سودة بنت زمعة رضي الله عنها",
+          "isCorrect": false
+        },
+        {
+          "text": "السيدة حفصة بنت عمر رضي الله عنها",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "question": "كم كان عمر رسول الله ﷺ عندما تزوج السيدة خديجة ؟",
+      "answers": [
+        {
+          "text": "خمساً وعشرين عاماً",
+          "isCorrect": true
+        },
+        {
+          "text": "ثلاثين عاماً",
+          "isCorrect": false
+        },
+        {
+          "text": "عشرين عاماً",
+          "isCorrect": false
+        },
+        {
+          "text": "ثمانية وعشرين عاماً",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "question": "كم كان عمر السيدة خديجة عندما تزوجها النبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "أربعين عاماً",
+          "isCorrect": true
+        },
+        {
+          "text": "خمساً وثلاثين عاماً",
+          "isCorrect": false
+        },
+        {
+          "text": "ثلاثين عاماً",
+          "isCorrect": false
+        },
+        {
+          "text": "خمساً وأربعين عاماً",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "question": "كم سنة عاشت السيدة خديجة رضي الله عنها مع النبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "٢٥ عاماً",
+          "isCorrect": true
+        },
+        {
+          "text": "٢٠ عاماً",
+          "isCorrect": false
+        },
+        {
+          "text": "٣٠ عاماً",
+          "isCorrect": false
+        },
+        {
+          "text": "١٥ عاماً",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "question": "متى بدأ نزول الوحي على النبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "ببلوغ رسول الله ﷺ سن الأربعين",
+          "isCorrect": true
+        },
+        {
+          "text": "ببلوغ رسول الله ﷺ سن الخامسة والثلاثين",
+          "isCorrect": false
+        },
+        {
+          "text": "ببلوغ رسول الله ﷺ سن الخامسة والأربعين",
+          "isCorrect": false
+        },
+        {
+          "text": "ببلوغ رسول الله ﷺ سن الثلاثين",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "question": "ما أول ما بدئ به الوحي ؟",
+      "answers": [
+        {
+          "text": "الرؤيا الصادقة",
+          "isCorrect": true
+        },
+        {
+          "text": "نزول جبريل عليه السلام مباشرة",
+          "isCorrect": false
+        },
+        {
+          "text": "سماع صوت من السماء",
+          "isCorrect": false
+        },
+        {
+          "text": "الإلهام القلبي",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "question": "ما أول كلمة أوحي بها إلى النبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "اقرأ",
+          "isCorrect": true
+        },
+        {
+          "text": "قل",
+          "isCorrect": false
+        },
+        {
+          "text": "بسم الله",
+          "isCorrect": false
+        },
+        {
+          "text": "الحمد",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "question": "من أول النساء إيماناً بالنبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "السيدة خديجة بنت خويلد",
+          "isCorrect": true
+        },
+        {
+          "text": "السيدة فاطمة بنت أسد",
+          "isCorrect": false
+        },
+        {
+          "text": "السيدة أم أيمن",
+          "isCorrect": false
+        },
+        {
+          "text": "السيدة سمية بنت خياط",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "question": "من أول الغلمان إيماناً بالنبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "علي بن أبي طالب كرم الله وجهه",
+          "isCorrect": true
+        },
+        {
+          "text": "زيد بن حارثة ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الزبير بن العوام ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "عبد الله بن الزبير ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "question": "ما اسم الجبل الذي فيه غار حراء ؟",
+      "answers": [
+        {
+          "text": "جبل النور وهو على بعد ميلين من مكة",
+          "isCorrect": true
+        },
+        {
+          "text": "جبل ثور وهو جنوب مكة",
+          "isCorrect": false
+        },
+        {
+          "text": "جبل أحد وهو شمال المدينة",
+          "isCorrect": false
+        },
+        {
+          "text": "جبل الرحمة وهو في عرفات",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "question": "من أول من أجاب الدعوة إلى الإسلام من غير بيت النبوة ؟",
+      "answers": [
+        {
+          "text": "أبو بكر الصديق ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "عمر بن الخطاب ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "عثمان بن عفان ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "سعد بن أبي وقاص ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "question": "من هو خال النبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "الصحابي سعد بن أبي وقاص ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "الصحابي حمزة بن عبد المطلب ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي العباس بن عبد المطلب ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي عمر بن الخطاب ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "question": "من أول الموالي إيماناً برسول الله ﷺ ؟",
+      "answers": [
+        {
+          "text": "زيد بن حارثة ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "بلال بن رباح ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "عمار بن ياسر ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "صهيب الرومي ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "question": "ما اسم الدار التي كان يلتقي فيها رسول الله ﷺ بالمسلمين في بداية البعثة ؟",
+      "answers": [
+        {
+          "text": "دار الأرقم بن أبي الأرقم",
+          "isCorrect": true
+        },
+        {
+          "text": "دار الندوة",
+          "isCorrect": false
+        },
+        {
+          "text": "دار السلام",
+          "isCorrect": false
+        },
+        {
+          "text": "دار ابن عباس",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "question": "إلى أين كانت أول هجرة للمسلمين ؟",
+      "answers": [
+        {
+          "text": "من مكة إلى الحبشة",
+          "isCorrect": true
+        },
+        {
+          "text": "من مكة إلى المدينة",
+          "isCorrect": false
+        },
+        {
+          "text": "من مكة إلى الشام",
+          "isCorrect": false
+        },
+        {
+          "text": "من مكة إلى اليمن",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "question": "كم كان عدد المسلمين المهاجرين إلى الحبشة في المرة الأولى ؟",
+      "answers": [
+        {
+          "text": "احدى عشر رجلاً وأربع نسوة",
+          "isCorrect": true
+        },
+        {
+          "text": "عشرون رجلاً وعشر نساء",
+          "isCorrect": false
+        },
+        {
+          "text": "خمسة عشر رجلاً وثلاث نساء",
+          "isCorrect": false
+        },
+        {
+          "text": "ثمانية رجال وسبع نساء",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "question": "كم كان عدد المسلمين المهاجرين إلى الحبشة في المرة الثانية ؟",
+      "answers": [
+        {
+          "text": "نحو ثلاثة وثمانين رجلاً وثماني عشرة امرأة",
+          "isCorrect": true
+        },
+        {
+          "text": "نحو خمسين رجلاً وعشر نساء",
+          "isCorrect": false
+        },
+        {
+          "text": "نحو مئة رجل وعشرين امرأة",
+          "isCorrect": false
+        },
+        {
+          "text": "نحو سبعين رجلاً واثنتي عشرة امرأة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "question": "أين سكن النبي ﷺ حين وصل المدينة ؟",
+      "answers": [
+        {
+          "text": "في بيت أبي أيوب الأنصاري ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "في بيت سعد بن معاذ ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "في بيت أسعد بن زرارة ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "في بيت عبد الله بن سلام ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "question": "أي زوجة من زوجات النبي ﷺ كانت حكيمة أمهات المؤمنين ؟",
+      "answers": [
+        {
+          "text": "السيدة أم سلمة رضي الله عنها",
+          "isCorrect": true
+        },
+        {
+          "text": "السيدة عائشة رضي الله عنها",
+          "isCorrect": false
+        },
+        {
+          "text": "السيدة حفصة رضي الله عنها",
+          "isCorrect": false
+        },
+        {
+          "text": "السيدة زينب بنت جحش رضي الله عنها",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "question": "ما هي الغزوة التي أشيع فيها خبر موت النبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "غزوة أحد",
+          "isCorrect": true
+        },
+        {
+          "text": "غزوة بدر",
+          "isCorrect": false
+        },
+        {
+          "text": "غزوة الخندق",
+          "isCorrect": false
+        },
+        {
+          "text": "غزوة حنين",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "question": "متى كانت وفاة خديجة رضي الله عنها ؟",
+      "answers": [
+        {
+          "text": "قبل الهجرة بثلاث سنوات وكان عمرها ٦٥ عاماً",
+          "isCorrect": true
+        },
+        {
+          "text": "قبل الهجرة بخمس سنوات وكان عمرها ٦٠ عاماً",
+          "isCorrect": false
+        },
+        {
+          "text": "قبل الهجرة بسنة واحدة وكان عمرها ٦٣ عاماً",
+          "isCorrect": false
+        },
+        {
+          "text": "قبل الهجرة بسنتين وكان عمرها ٦٧ عاماً",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "question": "ما اسم العام الذي مات فيه أبو طالب وخديجة ؟",
+      "answers": [
+        {
+          "text": "عام الحزن",
+          "isCorrect": true
+        },
+        {
+          "text": "عام الوفاء",
+          "isCorrect": false
+        },
+        {
+          "text": "عام الألم",
+          "isCorrect": false
+        },
+        {
+          "text": "عام الفراق",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "question": "من هو الصحابي الذي حمى رسول الله ﷺ من حجارة أهل الطائف بجسده ؟",
+      "answers": [
+        {
+          "text": "زيد بن حارثة ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "أبو بكر الصديق ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "علي بن أبي طالب ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "بلال بن رباح ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "question": "من أي بيت خرج النبي ﷺ ليلة الإسراء والمعراج ؟",
+      "answers": [
+        {
+          "text": "من بيت السيدة أم هانئ رضي الله عنها",
+          "isCorrect": true
+        },
+        {
+          "text": "من بيت السيدة خديجة رضي الله عنها",
+          "isCorrect": false
+        },
+        {
+          "text": "من بيت أبي بكر الصديق ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "من المسجد الحرام مباشرة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "question": "ماذا تشكل حادثة الإسراء والمعراج بعد عام الحزن ؟",
+      "answers": [
+        {
+          "text": "مواساة وهدية من الله ﷻ إلى النبي ﷺ",
+          "isCorrect": true
+        },
+        {
+          "text": "اختبار وابتلاء للنبي ﷺ",
+          "isCorrect": false
+        },
+        {
+          "text": "بداية الهجرة إلى المدينة",
+          "isCorrect": false
+        },
+        {
+          "text": "فرض الجهاد على المسلمين",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "question": "كم كان عدد المسلمين الذين بايعوا رسول الله ﷺ في بيعة العقبة الأولى ؟",
+      "answers": [
+        {
+          "text": "١٢ رجلاً",
+          "isCorrect": true
+        },
+        {
+          "text": "١٠ رجال",
+          "isCorrect": false
+        },
+        {
+          "text": "١٥ رجلاً",
+          "isCorrect": false
+        },
+        {
+          "text": "٢٠ رجلاً",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "question": "كم كان عدد الأنصار الذين بايعوا رسول الله ﷺ في بيعة العقبة الثانية ؟",
+      "answers": [
+        {
+          "text": "٧٣ رجلاً وامرأتين",
+          "isCorrect": true
+        },
+        {
+          "text": "٧٠ رجلاً وثلاث نساء",
+          "isCorrect": false
+        },
+        {
+          "text": "٨٠ رجلاً وامرأة واحدة",
+          "isCorrect": false
+        },
+        {
+          "text": "٦٥ رجلاً وخمس نساء",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "question": "ما اسم الغار الذي اختبأ فيه رسول الله ﷺ وأبو بكر في طريق الهجرة ؟",
+      "answers": [
+        {
+          "text": "غار ثور",
+          "isCorrect": true
+        },
+        {
+          "text": "غار حراء",
+          "isCorrect": false
+        },
+        {
+          "text": "غار النور",
+          "isCorrect": false
+        },
+        {
+          "text": "غار الهجرة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "question": "كم ليلة بات رسول الله ﷺ وصاحبه في الغار ؟",
+      "answers": [
+        {
+          "text": "ثلاث ليالٍ",
+          "isCorrect": true
+        },
+        {
+          "text": "ليلتين",
+          "isCorrect": false
+        },
+        {
+          "text": "أربع ليالٍ",
+          "isCorrect": false
+        },
+        {
+          "text": "ليلة واحدة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "question": "ما هو أول مسجد بناه رسول الله ﷺ ووصف بأنه مسجد أسس على التقوى ؟",
+      "answers": [
+        {
+          "text": "مسجد قباء",
+          "isCorrect": true
+        },
+        {
+          "text": "المسجد النبوي",
+          "isCorrect": false
+        },
+        {
+          "text": "المسجد الحرام",
+          "isCorrect": false
+        },
+        {
+          "text": "مسجد القبلتين",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "question": "أين صلى النبي ﷺ أول صلاة جمعة ؟",
+      "answers": [
+        {
+          "text": "في بني سالم بن عوف",
+          "isCorrect": true
+        },
+        {
+          "text": "في مسجد قباء",
+          "isCorrect": false
+        },
+        {
+          "text": "في المسجد النبوي",
+          "isCorrect": false
+        },
+        {
+          "text": "في مكة المكرمة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "question": "ما هو أول عمل قام به النبي ﷺ في المدينة ؟",
+      "answers": [
+        {
+          "text": "بناء المسجد النبوي الشريف",
+          "isCorrect": true
+        },
+        {
+          "text": "المؤاخاة بين المهاجرين والأنصار",
+          "isCorrect": false
+        },
+        {
+          "text": "كتابة وثيقة المدينة",
+          "isCorrect": false
+        },
+        {
+          "text": "تنظيم الجيش الإسلامي",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "question": "متى بدأت معركة بدر الكبرى ؟",
+      "answers": [
+        {
+          "text": "في السابع عشر من رمضان من العام الثاني الهجري",
+          "isCorrect": true
+        },
+        {
+          "text": "في الخامس عشر من شوال من العام الثاني الهجري",
+          "isCorrect": false
+        },
+        {
+          "text": "في العاشر من رمضان من العام الثالث الهجري",
+          "isCorrect": false
+        },
+        {
+          "text": "في العشرين من رمضان من العام الأول الهجري",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "question": "كم كان عدد المسلمين في غزوة بدر الكبرى ؟",
+      "answers": [
+        {
+          "text": "٣١٣ رجلاً",
+          "isCorrect": true
+        },
+        {
+          "text": "٣٠٠ رجل",
+          "isCorrect": false
+        },
+        {
+          "text": "٣٥٠ رجلاً",
+          "isCorrect": false
+        },
+        {
+          "text": "٤٠٠ رجل",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "question": "من هو حامل لواء المسلمين في بدر ؟",
+      "answers": [
+        {
+          "text": "الصحابي الجليل سعد بن معاذ ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "الصحابي الجليل مصعب بن عمير ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي الجليل علي بن أبي طالب ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي الجليل حمزة بن عبد المطلب ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "question": "كم كان عدد المشركين في معركة بدر ؟",
+      "answers": [
+        {
+          "text": "١٠٠٠ رجل تقريبا",
+          "isCorrect": true
+        },
+        {
+          "text": "٩٠٠ رجلاً",
+          "isCorrect": false
+        },
+        {
+          "text": "٧٠٠ رجل",
+          "isCorrect": false
+        },
+        {
+          "text": "١٢٠٠ رجل",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "question": "لماذا سميت معركة بدر بهذا الاسم ؟",
+      "answers": [
+        {
+          "text": "نسبة لماء بدر",
+          "isCorrect": true
+        },
+        {
+          "text": "نسبة لرجل اسمه بدر",
+          "isCorrect": false
+        },
+        {
+          "text": "نسبة لقمر البدر الذي ظهر ليلتها",
+          "isCorrect": false
+        },
+        {
+          "text": "نسبة لوادي بدر في الشام",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "question": "في أي عام وقعت معركة أحد ؟",
+      "answers": [
+        {
+          "text": "في السنة الثالثة للهجرة",
+          "isCorrect": true
+        },
+        {
+          "text": "في السنة الثانية للهجرة",
+          "isCorrect": false
+        },
+        {
+          "text": "في السنة الرابعة للهجرة",
+          "isCorrect": false
+        },
+        {
+          "text": "في السنة الخامسة للهجرة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "question": "لمن أعطى النبي ﷺ لواء المهاجرين في أحد ؟",
+      "answers": [
+        {
+          "text": "للصحابي الجليل مصعب بن عمير ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "للصحابي الجليل حمزة بن عبد المطلب ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "للصحابي الجليل علي بن أبي طالب ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "للصحابي الجليل سعد بن أبي وقاص ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "question": "كم عدد الشهداء في غزوة مؤتة ؟",
+      "answers": [
+        {
+          "text": "١٢ شهيداً",
+          "isCorrect": true
+        },
+        {
+          "text": "١٥ شهيداً",
+          "isCorrect": false
+        },
+        {
+          "text": "٧٠ شهيداً",
+          "isCorrect": false
+        },
+        {
+          "text": "٨ شهداء",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "question": "في أي عام توفيت السيدة خديجة؟",
+      "answers": [
+        {
+          "text": "٥٨ هجريا",
+          "isCorrect": true
+        },
+        {
+          "text": "٦٣ هجريا",
+          "isCorrect": false
+        },
+        {
+          "text": "٥٥ هجريا",
+          "isCorrect": false
+        },
+        {
+          "text": "٦٧ هجريا",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "question": "من هي المرأة التي قتلت يهودياً في غزوة الخندق ؟",
+      "answers": [
+        {
+          "text": "السيدة صفية بنت عبد المطلب عمة النبي ﷺ",
+          "isCorrect": true
+        },
+        {
+          "text": "السيدة أم سلمة رضي الله عنها",
+          "isCorrect": false
+        },
+        {
+          "text": "السيدة نسيبة بنت كعب رضي الله عنها",
+          "isCorrect": false
+        },
+        {
+          "text": "السيدة أسماء بنت أبي بكر رضي الله عنها",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "question": "من هي أفقه أمهات المؤمنين ؟",
+      "answers": [
+        {
+          "text": "السيدة عائشة بنت أبي بكر رضي الله عنها",
+          "isCorrect": true
+        },
+        {
+          "text": "السيدة أم سلمة رضي الله عنها",
+          "isCorrect": false
+        },
+        {
+          "text": "السيدة حفصة بنت عمر رضي الله عنها",
+          "isCorrect": false
+        },
+        {
+          "text": "السيدة خديجة بنت خويلد رضي الله عنها",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "question": "متى كان فتح مكة ؟",
+      "answers": [
+        {
+          "text": "في ٢٠ رمضان في العام الثامن للهجرة",
+          "isCorrect": true
+        },
+        {
+          "text": "في ١٠ شوال في العام السابع للهجرة",
+          "isCorrect": false
+        },
+        {
+          "text": "في ١٥ رمضان في العام التاسع للهجرة",
+          "isCorrect": false
+        },
+        {
+          "text": "في ٢٥ رمضان في العام السادس للهجرة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "question": "من هو حواري رسول الله ﷺ ؟",
+      "answers": [
+        {
+          "text": "الزبير بن العوام رضي الله عنه",
+          "isCorrect": true
+        },
+        {
+          "text": "طلحة بن عبيد الله رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "سعد بن أبي وقاص رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "عبد الرحمن بن عوف رضي الله عنه",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "question": "ما هي الغزوة التي أنهت وجود اليهود في المدينة ؟",
+      "answers": [
+        {
+          "text": "غزوة بني قينقاع",
+          "isCorrect": true
+        },
+        {
+          "text": "غزوة بني النضير",
+          "isCorrect": false
+        },
+        {
+          "text": "غزوة بني قريظة",
+          "isCorrect": false
+        },
+        {
+          "text": "غزوة خيبر",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "question": "كم مرة حج النبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "مرة واحدة وهي حجة الوداع في العام العاشر الهجري",
+          "isCorrect": true
+        },
+        {
+          "text": "مرتين في العام التاسع والعاشر الهجري",
+          "isCorrect": false
+        },
+        {
+          "text": "ثلاث مرات خلال حياته ﷺ",
+          "isCorrect": false
+        },
+        {
+          "text": "لم يحج ﷺ بسبب انشغاله بالفتوحات",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "question": "ما هي آخر صلاة صلاها النبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "صلاة الفجر",
+          "isCorrect": true
+        },
+        {
+          "text": "صلاة الظهر",
+          "isCorrect": false
+        },
+        {
+          "text": "صلاة المغرب",
+          "isCorrect": false
+        },
+        {
+          "text": "صلاة العشاء",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "question": "من هو مؤذن النبي ﷺ ذو الشهرة ؟",
+      "answers": [
+        {
+          "text": "بلال بن رباح ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "عبد الله بن أم مكتوم ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "سعد القرظ ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "أبو محذورة ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "question": "كم كان عدد المسلمين في حجة الوداع ؟",
+      "answers": [
+        {
+          "text": "مئة ألف صحابي",
+          "isCorrect": true
+        },
+        {
+          "text": "خمسون ألف صحابي",
+          "isCorrect": false
+        },
+        {
+          "text": "مئة وعشرون ألف صحابي",
+          "isCorrect": false
+        },
+        {
+          "text": "سبعون ألف صحابي",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "question": "متى توفي رسول الله ﷺ ؟",
+      "answers": [
+        {
+          "text": "ضحوة يوم الاثنين ١٢ ربيع الأول عام ١١ هجري",
+          "isCorrect": true
+        },
+        {
+          "text": "ضحوة يوم الخميس ١٠ ربيع الأول عام ١١ هجري",
+          "isCorrect": false
+        },
+        {
+          "text": "ضحوة يوم الاثنين ١٥ ربيع الأول عام ١٢ هجري",
+          "isCorrect": false
+        },
+        {
+          "text": "ضحوة يوم الثلاثاء ١٢ ربيع الثاني عام ١١ هجري",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "question": "ما هو آخر جيش أرسله النبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "جيش أسامة بن زيد وقد وجهه إلى الروم",
+          "isCorrect": true
+        },
+        {
+          "text": "جيش خالد بن الوليد وقد وجهه إلى اليمن",
+          "isCorrect": false
+        },
+        {
+          "text": "جيش علي بن أبي طالب وقد وجهه إلى الشام",
+          "isCorrect": false
+        },
+        {
+          "text": "جيش عمرو بن العاص وقد وجهه إلى مصر",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "question": "متى أسلم عمر بن الخطاب ؓ ؟",
+      "answers": [
+        {
+          "text": "في العام السادس للبعثة",
+          "isCorrect": true
+        },
+        {
+          "text": "في العام الرابع للبعثة",
+          "isCorrect": false
+        },
+        {
+          "text": "في العام الثامن للبعثة",
+          "isCorrect": false
+        },
+        {
+          "text": "في العام الخامس للبعثة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "question": "متى كانت غزوة بني قينقاع ؟",
+      "answers": [
+        {
+          "text": "في العام الثاني للهجرة",
+          "isCorrect": true
+        },
+        {
+          "text": "في العام الثالث للهجرة",
+          "isCorrect": false
+        },
+        {
+          "text": "في العام الرابع للهجرة",
+          "isCorrect": false
+        },
+        {
+          "text": "في العام الأول للهجرة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "question": "متى أسلم القائد خالد بن الوليد ؟",
+      "answers": [
+        {
+          "text": "في السنة السابعة للهجرة",
+          "isCorrect": true
+        },
+        {
+          "text": "في السنة الخامسة للهجرة",
+          "isCorrect": false
+        },
+        {
+          "text": "في السنة الثامنة للهجرة",
+          "isCorrect": false
+        },
+        {
+          "text": "في السنة السادسة للهجرة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "question": "متى تولى سيدنا عمر ؓ الخلافة ؟",
+      "answers": [
+        {
+          "text": "في العام الثالث عشر الهجري",
+          "isCorrect": true
+        },
+        {
+          "text": "في العام الحادي عشر الهجري",
+          "isCorrect": false
+        },
+        {
+          "text": "في العام الخامس عشر الهجري",
+          "isCorrect": false
+        },
+        {
+          "text": "في العام الثاني عشر الهجري",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "question": "كم سنة استمرت خلافة عمر ؓ ؟",
+      "answers": [
+        {
+          "text": "عشر سنوات",
+          "isCorrect": true
+        },
+        {
+          "text": "ثماني سنوات",
+          "isCorrect": false
+        },
+        {
+          "text": "اثنتا عشرة سنة",
+          "isCorrect": false
+        },
+        {
+          "text": "ست سنوات",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "question": "من هو الصحابي الذي تولى قيادة المسلمين أثناء فتح دمشق ؟",
+      "answers": [
+        {
+          "text": "أبو عبيدة بن الجراح ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "خالد بن الوليد ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "عمرو بن العاص ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "سعد بن أبي وقاص ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "question": "في أي عام بُني المسجد النبوي ؟",
+      "answers": [
+        {
+          "text": "في العام الأول الهجري",
+          "isCorrect": true
+        },
+        {
+          "text": "في العام الثاني الهجري",
+          "isCorrect": false
+        },
+        {
+          "text": "قبل الهجرة بعام",
+          "isCorrect": false
+        },
+        {
+          "text": "في العام الثالث الهجري",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "question": "من هو قائد الرماة في غزوة أحد ؟",
+      "answers": [
+        {
+          "text": "الصحابي الجليل عبد الله بن جبير ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "الصحابي الجليل سعد بن أبي وقاص ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي الجليل خالد بن الوليد ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي الجليل حمزة بن عبد المطلب ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "question": "كم كانت مدة حصار المسلمين في شعب أبي طالب ؟",
+      "answers": [
+        {
+          "text": "ثلاث سنوات",
+          "isCorrect": true
+        },
+        {
+          "text": "سنتان",
+          "isCorrect": false
+        },
+        {
+          "text": "أربع سنوات",
+          "isCorrect": false
+        },
+        {
+          "text": "سنة ونصف",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "question": "من قائد الاسطلول البحرى في  فتح قبرص وفي أي عام ؟",
+      "answers": [
+        {
+          "text": "عبد الله بن قيس عام ٢٨ هـ",
+          "isCorrect": true
+        },
+        {
+          "text": "معاوية بن أبي سفيان عام ٣٠ هـ",
+          "isCorrect": false
+        },
+        {
+          "text": "عمرو بن العاص عام ٢٥ هـ",
+          "isCorrect": false
+        },
+        {
+          "text": "أبو عبيدة بن الجراح عام ٢٧ هـ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "question": "من هم قادة المسلمين في غزوة مؤتة ؟",
+      "answers": [
+        {
+          "text": "زيد بن حارثة - جعفر بن أبي طالب - عبد الله بن رواحة",
+          "isCorrect": true
+        },
+        {
+          "text": "خالد بن الوليد - عمرو بن العاص - أبو عبيدة بن الجراح",
+          "isCorrect": false
+        },
+        {
+          "text": "علي بن أبي طالب - حمزة بن عبد المطلب - سعد بن معاذ",
+          "isCorrect": false
+        },
+        {
+          "text": "أسامة بن زيد - مصعب بن عمير - بلال بن رباح",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "question": "ما هي الغزوة التي لم يحصل فيها قتال بين المسلمين وعدوهم ؟",
+      "answers": [
+        {
+          "text": "غزوة تبوك",
+          "isCorrect": true
+        },
+        {
+          "text": "غزوة بدر",
+          "isCorrect": false
+        },
+        {
+          "text": "غزوة أحد",
+          "isCorrect": false
+        },
+        {
+          "text": "غزوة حنين",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "question": "من هو الصحابي الذي تولى كتابة صلح الحديبية ؟",
+      "answers": [
+        {
+          "text": "الإمام علي بن أبي طالب ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "الصحابي زيد بن ثابت ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي عثمان بن عفان ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي معاوية بن أبي سفيان ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "question": "من هو أمين سر النبي ﷺ في المنافقين ؟",
+      "answers": [
+        {
+          "text": "الصحابي الجليل حذيفة بن اليمان ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "الصحابي الجليل أبو هريرة ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي الجليل عبد الله بن عباس ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي الجليل أنس بن مالك ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "question": "من هو ترجمان القرآن ؟",
+      "answers": [
+        {
+          "text": "الصحابي عبد الله بن عباس ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "الصحابي عبد الله بن مسعود ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي أبي بن كعب ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي زيد بن ثابت ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "question": "ما اسم الغزوة التي أطلق عليها غزوة العسرة ؟",
+      "answers": [
+        {
+          "text": "غزوة تبوك",
+          "isCorrect": true
+        },
+        {
+          "text": "غزوة الخندق",
+          "isCorrect": false
+        },
+        {
+          "text": "غزوة حنين",
+          "isCorrect": false
+        },
+        {
+          "text": "غزوة مؤتة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "question": "من هي آخر زوجة من زوجات النبي ﷺ وفاة ؟",
+      "answers": [
+        {
+          "text": "السيدة أم المؤمنين أم سلمة رضي الله عنها",
+          "isCorrect": true
+        },
+        {
+          "text": "السيدة أم المؤمنين عائشة رضي الله عنها",
+          "isCorrect": false
+        },
+        {
+          "text": "السيدة أم المؤمنين ميمونة رضي الله عنها",
+          "isCorrect": false
+        },
+        {
+          "text": "السيدة أم المؤمنين صفية رضي الله عنها",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "question": "من هي آخر أمهات المؤمنين زواجاً بالنبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "أم المؤمنين ميمونة بنت الحارث رضي الله عنها",
+          "isCorrect": true
+        },
+        {
+          "text": "أم المؤمنين صفية بنت حيي رضي الله عنها",
+          "isCorrect": false
+        },
+        {
+          "text": "أم المؤمنين جويرية بنت الحارث رضي الله عنها",
+          "isCorrect": false
+        },
+        {
+          "text": "أم المؤمنين أم حبيبة رضي الله عنها",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "question": "من الصحابي الذي أرسله النبي ﷺ إلى المدينة ليعلم الأنصار الإسلام ؟",
+      "answers": [
+        {
+          "text": "الصحابي الجليل مصعب بن عمير ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "الصحابي الجليل معاذ بن جبل ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي الجليل عبد الله بن رواحة ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي الجليل أبو ذر الغفاري ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "question": "من هو الصحابي الذي نام في فراش النبي ﷺ ليلة الهجرة ؟",
+      "answers": [
+        {
+          "text": "الإمام علي بن أبي طالب ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "أبو بكر الصديق ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "عمر بن الخطاب ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "زيد بن حارثة ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "question": "من الصحابي الذي أرسله النبي ﷺ إلى اليمن ليعلم أهلها الإسلام ؟",
+      "answers": [
+        {
+          "text": "الصحابي معاذ بن جبل ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "الصحابي مصعب بن عمير ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي علي بن أبي طالب ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي أبو موسى الأشعري ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "question": "من هو الصحابي الذي تعلم لغة اليهود بأمر من رسول الله ﷺ ؟",
+      "answers": [
+        {
+          "text": "زيد بن ثابت الأنصاري رضي الله عنه",
+          "isCorrect": true
+        },
+        {
+          "text": "عبد الله بن عباس رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "حذيفة بن اليمان رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "سلمان الفارسي رضي الله عنه",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "question": "كم كان عمر سيدنا أبي بكر الصديق ؓ عند وفاته ؟",
+      "answers": [
+        {
+          "text": "ثلاثاً وستين سنة",
+          "isCorrect": true
+        },
+        {
+          "text": "ستين سنة",
+          "isCorrect": false
+        },
+        {
+          "text": "خمساً وستين سنة",
+          "isCorrect": false
+        },
+        {
+          "text": "ثمانياً وخمسين سنة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "question": "من هو الصحابي الذي أرسله النبي ﷺ إلى النجاشي ملك الحبشة ؟",
+      "answers": [
+        {
+          "text": "الصحابي عمرو بن أمية ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "الصحابي جعفر بن أبي طالب ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي مصعب بن عمير ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي عثمان بن عفان ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "question": "من الذي أشار على النبي ﷺ بتغيير مكان الجيش في بدر ؟",
+      "answers": [
+        {
+          "text": "الصحابي الحباب بن المنذر ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "الصحابي سعد بن معاذ ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي أبو بكر الصديق ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي عمر بن الخطاب ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "question": "متى حُولت القبلة من بيت المقدس إلى الكعبة المشرفة ؟",
+      "answers": [
+        {
+          "text": "في العام الثاني للهجرة",
+          "isCorrect": true
+        },
+        {
+          "text": "في العام الأول للهجرة",
+          "isCorrect": false
+        },
+        {
+          "text": "في العام الثالث للهجرة",
+          "isCorrect": false
+        },
+        {
+          "text": "قبل الهجرة بعام",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "question": "في أي عام فُرض الصيام على المسلمين ؟",
+      "answers": [
+        {
+          "text": "في العام الثاني للهجرة",
+          "isCorrect": true
+        },
+        {
+          "text": "في العام الأول للهجرة",
+          "isCorrect": false
+        },
+        {
+          "text": "في العام الثالث للهجرة",
+          "isCorrect": false
+        },
+        {
+          "text": "في العام الرابع للهجرة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "question": "متى شُرع الأذان على المسلمين ؟",
+      "answers": [
+        {
+          "text": "في العام الأول للهجرة",
+          "isCorrect": true
+        },
+        {
+          "text": "في العام الثاني للهجرة",
+          "isCorrect": false
+        },
+        {
+          "text": "قبل الهجرة بعام",
+          "isCorrect": false
+        },
+        {
+          "text": "في العام الثالث للهجرة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "question": "من هو أول من لقب بأمير المؤمنين ؟",
+      "answers": [
+        {
+          "text": "الخليفة الراشدي الثاني عمر بن الخطاب ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "الخليفة الراشدي الأول أبو بكر الصديق ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الخليفة الراشدي الثالث عثمان بن عفان ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الخليفة الراشدي الرابع علي بن أبي طالب ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "question": "في أي عام فُرضت الزكاة على المسلمين ؟",
+      "answers": [
+        {
+          "text": "في العام الثاني الهجري",
+          "isCorrect": true
+        },
+        {
+          "text": "في العام الأول الهجري",
+          "isCorrect": false
+        },
+        {
+          "text": "في العام الثالث الهجري",
+          "isCorrect": false
+        },
+        {
+          "text": "قبل الهجرة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "question": "من هو قائد جيش المسلمين في القادسية ؟",
+      "answers": [
+        {
+          "text": "الصحابي الجليل سعد بن أبي وقاص ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "الصحابي الجليل خالد بن الوليد ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي الجليل أبو عبيدة بن الجراح ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي الجليل عمرو بن العاص ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "question": "ما هي المعركة التي عُرفت بفتح الفتوح ؟",
+      "answers": [
+        {
+          "text": "معركة نهاوند",
+          "isCorrect": true
+        },
+        {
+          "text": "معركة القادسية",
+          "isCorrect": false
+        },
+        {
+          "text": "معركة اليرموك",
+          "isCorrect": false
+        },
+        {
+          "text": "معركة بدر",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "question": "من هو مؤسس مدينة القيروان ؟",
+      "answers": [
+        {
+          "text": "القائد المسلم عقبة بن نافع ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "القائد المسلم موسى بن نصير",
+          "isCorrect": false
+        },
+        {
+          "text": "القائد المسلم طارق بن زياد",
+          "isCorrect": false
+        },
+        {
+          "text": "القائد المسلم حسان بن النعمان",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "question": "من وضع التقويم الهجري ؟",
+      "answers": [
+        {
+          "text": "أمير المؤمنين عمر بن الخطاب ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "أمير المؤمنين أبو بكر الصديق ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "أمير المؤمنين عثمان بن عفان ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "أمير المؤمنين علي بن أبي طالب ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "question": "ما اسم البلاد التي فتحها قتيبة بن مسلم الباهلي ؟",
+      "answers": [
+        {
+          "text": "بلاد ما وراء النهر",
+          "isCorrect": true
+        },
+        {
+          "text": "بلاد الأندلس",
+          "isCorrect": false
+        },
+        {
+          "text": "بلاد السند والهند",
+          "isCorrect": false
+        },
+        {
+          "text": "بلاد فارس",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "question": "متى انتهت الخلافة الأموية ؟",
+      "answers": [
+        {
+          "text": "سنة ١٣٢ هـ",
+          "isCorrect": true
+        },
+        {
+          "text": "سنة ١٢٥ هـ",
+          "isCorrect": false
+        },
+        {
+          "text": "سنة ١٤٠ هـ",
+          "isCorrect": false
+        },
+        {
+          "text": "سنة ١٥٠ هـ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "question": "من هو أول خلفاء بني أمية ؟",
+      "answers": [
+        {
+          "text": "الصحابي معاوية بن أبي سفيان ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "مروان بن الحكم",
+          "isCorrect": false
+        },
+        {
+          "text": "يزيد بن معاوية",
+          "isCorrect": false
+        },
+        {
+          "text": "عبد الملك بن مروان",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "question": "ما اسم آخر خلفاء بني أمية ؟",
+      "answers": [
+        {
+          "text": "مروان بن محمد بن مروان بن الحكم",
+          "isCorrect": true
+        },
+        {
+          "text": "عبد الملك بن مروان بن الحكم",
+          "isCorrect": false
+        },
+        {
+          "text": "هشام بن عبد الملك بن مروان",
+          "isCorrect": false
+        },
+        {
+          "text": "يزيد بن عبد الملك بن مروان",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "question": "من هو الصحابي الذي أشار على النبي ﷺ بحفر الخندق ؟",
+      "answers": [
+        {
+          "text": "سلمان الفارسي ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "حذيفة بن اليمان ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "عبد الرحمن بن عوف ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "سعد بن معاذ ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "question": "من هو أول سفير في الإسلام ؟",
+      "answers": [
+        {
+          "text": "مصعب بن عمير ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "عثمان بن عفان ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "جعفر بن أبي طالب ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "عمرو بن أمية ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "question": "ما اسم أول خلفاء الدولة العباسية ؟",
+      "answers": [
+        {
+          "text": "أبو العباس عبد الله بن محمد",
+          "isCorrect": true
+        },
+        {
+          "text": "أبو جعفر المنصور",
+          "isCorrect": false
+        },
+        {
+          "text": "هارون الرشيد",
+          "isCorrect": false
+        },
+        {
+          "text": "المأمون بن هارون الرشيد",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "question": "ما هي أشهر المعارك التي جرت بين المسلمين والتتار ؟",
+      "answers": [
+        {
+          "text": "معركة عين جالوت",
+          "isCorrect": true
+        },
+        {
+          "text": "معركة حطين",
+          "isCorrect": false
+        },
+        {
+          "text": "معركة ذات الصواري",
+          "isCorrect": false
+        },
+        {
+          "text": "معركة بلاط الشهداء",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "question": "من هي الصحابية الجليلة التي لقبت بذات النطاقين ؟",
+      "answers": [
+        {
+          "text": "أسماء بنت أبي بكر رضي الله عنها",
+          "isCorrect": true
+        },
+        {
+          "text": "عائشة بنت أبي بكر رضي الله عنها",
+          "isCorrect": false
+        },
+        {
+          "text": "فاطمة بنت محمد رضي الله عنها",
+          "isCorrect": false
+        },
+        {
+          "text": "صفية بنت عبد المطلب رضي الله عنها",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "question": "من هو أول مولود في الإسلام بعد الهجرة ؟",
+      "answers": [
+        {
+          "text": "الصحابي عبد الله بن الزبير ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "الصحابي الحسن بن علي ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي محمد بن أبي بكر",
+          "isCorrect": false
+        },
+        {
+          "text": "الصحابي عبد الله بن عمر ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "question": "من هو سيد الشهداء ؟",
+      "answers": [
+        {
+          "text": "حمزة بن عبد المطلب عم النبي ﷺ",
+          "isCorrect": true
+        },
+        {
+          "text": "جعفر بن أبي طالب ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "مصعب بن عمير ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "سعد بن معاذ ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "question": "لمن من الصحابة اهتز عرش الرحمن عند وفاته ؟",
+      "answers": [
+        {
+          "text": "سعد بن معاذ ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "حمزة بن عبد المطلب ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "مصعب بن عمير ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "خالد بن الوليد ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "question": "في أي غزوة استشهد زيد بن حارثة ؓ ؟",
+      "answers": [
+        {
+          "text": "في غزوة مؤتة",
+          "isCorrect": true
+        },
+        {
+          "text": "في غزوة أحد",
+          "isCorrect": false
+        },
+        {
+          "text": "في غزوة بدر",
+          "isCorrect": false
+        },
+        {
+          "text": "في غزوة الخندق",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "question": "في أي غزوة استشهد حمزة بن عبد المطلب ؓ ؟",
+      "answers": [
+        {
+          "text": "في غزوة أحد",
+          "isCorrect": true
+        },
+        {
+          "text": "في غزوة بدر",
+          "isCorrect": false
+        },
+        {
+          "text": "في غزوة مؤتة",
+          "isCorrect": false
+        },
+        {
+          "text": "في غزوة الخندق",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "question": "في أي عام فتحت الأندلس ؟",
+      "answers": [
+        {
+          "text": "في عام ٩٢ هـ",
+          "isCorrect": true
+        },
+        {
+          "text": "في عام ٨٥ هـ",
+          "isCorrect": false
+        },
+        {
+          "text": "في عام ١٠٠ هـ",
+          "isCorrect": false
+        },
+        {
+          "text": "في عام ٧٨ هـ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "question": "من هو الخليفة الذي أنشئ في عهده الأسطول الإسلامي ؟",
+      "answers": [
+        {
+          "text": "الخليفة الراشدي الثالث عثمان بن عفان ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "الخليفة الراشدي الثاني عمر بن الخطاب ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الخليفة معاوية بن أبي سفيان ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الخليفة الراشدي الأول أبو بكر الصديق ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "question": "من هو شاعر الرسول ﷺ الذي عاش في الجاهلية والإسلام ؟",
+      "answers": [
+        {
+          "text": "حسان بن ثابت ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "كعب بن مالك ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "عبد الله بن رواحة ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "لبيد بن ربيعة ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "question": "متى كانت معركة بلاط الشهداء ؟",
+      "answers": [
+        {
+          "text": "في عام ١١٤ هـ",
+          "isCorrect": true
+        },
+        {
+          "text": "في عام ١٠٠ هـ",
+          "isCorrect": false
+        },
+        {
+          "text": "في عام ١٢٠ هـ",
+          "isCorrect": false
+        },
+        {
+          "text": "في عام ٩٢ هـ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "question": "كم سنة عاش النبي ﷺ في المدينة بعد الهجرة ؟",
+      "answers": [
+        {
+          "text": "عشر سنوات",
+          "isCorrect": true
+        },
+        {
+          "text": "ثماني سنوات",
+          "isCorrect": false
+        },
+        {
+          "text": "اثنتا عشرة سنة",
+          "isCorrect": false
+        },
+        {
+          "text": "سبع سنوات",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "question": "من هو قائد الأسطول الإسلامي في أول معركة بحرية ؟",
+      "answers": [
+        {
+          "text": "عبد الله بن أبي السرح ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "معاوية بن أبي سفيان ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "عمرو بن العاص ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "عبد الله بن قيس ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "question": "ما اسم المكان الذي كانت تعقد فيه قريش اجتماعاتها ؟",
+      "answers": [
+        {
+          "text": "دار الندوة",
+          "isCorrect": true
+        },
+        {
+          "text": "دار الأرقم",
+          "isCorrect": false
+        },
+        {
+          "text": "دار السلام",
+          "isCorrect": false
+        },
+        {
+          "text": "دار الشورى",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "question": "متى أسلم أبو هريرة ؓ ؟",
+      "answers": [
+        {
+          "text": "عام خيبر سنة ٧ للهجرة",
+          "isCorrect": true
+        },
+        {
+          "text": "عام بدر سنة ٢ للهجرة",
+          "isCorrect": false
+        },
+        {
+          "text": "عام الخندق سنة ٥ للهجرة",
+          "isCorrect": false
+        },
+        {
+          "text": "عام الفتح سنة ٨ للهجرة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "question": "من هو صقر قريش ؟",
+      "answers": [
+        {
+          "text": "عبد الرحمن الداخل",
+          "isCorrect": true
+        },
+        {
+          "text": "معاوية بن أبي سفيان",
+          "isCorrect": false
+        },
+        {
+          "text": "عبد الملك بن مروان",
+          "isCorrect": false
+        },
+        {
+          "text": "خالد بن الوليد",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "question": "من تولى إمارة السند وكان صغيراً ؟",
+      "answers": [
+        {
+          "text": "محمد بن القاسم الثقفي",
+          "isCorrect": true
+        },
+        {
+          "text": "طارق بن زياد",
+          "isCorrect": false
+        },
+        {
+          "text": "قتيبة بن مسلم الباهلي",
+          "isCorrect": false
+        },
+        {
+          "text": "أسامة بن زيد",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "question": "من هو الصحابي الذي لبس سواري كسرى وفي عهد مَن كان ذلك ؟",
+      "answers": [
+        {
+          "text": "سراقة بن مالك ؓ في عهد عمر بن الخطاب ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "بلال بن رباح ؓ في عهد أبي بكر الصديق ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "سعد بن أبي وقاص ؓ في عهد عثمان بن عفان ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "خالد بن الوليد ؓ في عهد عمر بن الخطاب ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "question": "من هو الصحابي الذي دعا له النبي ﷺ ببركة الحفظ ؟",
+      "answers": [
+        {
+          "text": "أبو هريرة ؓ",
+          "isCorrect": true
+        },
+        {
+          "text": "عبد الله بن عباس ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "أنس بن مالك ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "عبد الله بن مسعود ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "question": "لمن وكّل القضاء في عهد هارون الرشيد ؟",
+      "answers": [
+        {
+          "text": "الإمام أبو يوسف رحمه الله",
+          "isCorrect": true
+        },
+        {
+          "text": "الإمام أبو حنيفة رحمه الله",
+          "isCorrect": false
+        },
+        {
+          "text": "الإمام مالك بن أنس رحمه الله",
+          "isCorrect": false
+        },
+        {
+          "text": "الإمام الشافعي رحمه الله",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "question": "من هو الخليفة الذي حج ماشياً ؟",
+      "answers": [
+        {
+          "text": "الخليفة هارون الرشيد رضي الله عنه",
+          "isCorrect": true
+        },
+        {
+          "text": "الخليفة عمر بن عبد العزيز رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "الخليفة أبو جعفر المنصور",
+          "isCorrect": false
+        },
+        {
+          "text": "الخليفة المأمون بن هارون الرشيد",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "question": "أي من الخلفاء كانت فترة حكمه غرة في جبين الأمويين ؟",
+      "answers": [
+        {
+          "text": "الخليفة عمر بن عبد العزيز رضي الله عنه",
+          "isCorrect": true
+        },
+        {
+          "text": "الخليفة معاوية بن أبي سفيان ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "الخليفة عبد الملك بن مروان",
+          "isCorrect": false
+        },
+        {
+          "text": "الخليفة الوليد بن عبد الملك",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "question": "من هو أول من ولي بيت المال ولقبه النبي ﷺ أمين هذه الأمة ؟",
+      "answers": [
+        {
+          "text": "أبو عبيدة عامر بن الجراح رضي الله عنه",
+          "isCorrect": true
+        },
+        {
+          "text": "عبد الرحمن بن عوف رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "عثمان بن عفان رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "الزبير بن العوام رضي الله عنه",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "question": "من فتح صقلية وفي أي عام ؟",
+      "answers": [
+        {
+          "text": "أسد بن الفرات في عام ٢١٢ هجري",
+          "isCorrect": true
+        },
+        {
+          "text": "طارق بن زياد في عام ٩٢ هجري",
+          "isCorrect": false
+        },
+        {
+          "text": "موسى بن نصير في عام ٢٠٠ هجري",
+          "isCorrect": false
+        },
+        {
+          "text": "عقبة بن نافع في عام ٢٢٠ هجري",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "question": "ما المعركة التي انتصر فيها المسلمون على الروم في عهد أبي بكر رضي الله عنه ؟",
+      "answers": [
+        {
+          "text": "معركة أجنادين",
+          "isCorrect": true
+        },
+        {
+          "text": "معركة اليرموك",
+          "isCorrect": false
+        },
+        {
+          "text": "معركة القادسية",
+          "isCorrect": false
+        },
+        {
+          "text": "معركة ذات السلاسل",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "question": "من هو قائد المسلمين في معركة الجسر ؟",
+      "answers": [
+        {
+          "text": "أبو عبيدة الثقفي",
+          "isCorrect": true
+        },
+        {
+          "text": "خالد بن الوليد ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "سعد بن أبي وقاص ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "المثنى بن حارثة ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "question": "من هو قائد المسلمين في معركة النمارق سنة ١٣ هجري ؟",
+      "answers": [
+        {
+          "text": "أبو عبيدة الثقفي رضي الله عنه",
+          "isCorrect": true
+        },
+        {
+          "text": "المثنى بن حارثة رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "خالد بن الوليد رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "سعد بن أبي وقاص رضي الله عنه",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "question": "من أول من أمر بجمع القرآن الكريم ؟",
+      "answers": [
+        {
+          "text": "أبو بكر الصديق رضي الله عنه",
+          "isCorrect": true
+        },
+        {
+          "text": "عمر بن الخطاب رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "عثمان بن عفان رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "علي بن أبي طالب رضي الله عنه",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "question": "ما اسم ناقة النبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "القصواء",
+          "isCorrect": true
+        },
+        {
+          "text": "العضباء",
+          "isCorrect": false
+        },
+        {
+          "text": "الجدعاء",
+          "isCorrect": false
+        },
+        {
+          "text": "البراق",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "question": "من هو أكبر أعمام النبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "الحارث بن عبد المطلب",
+          "isCorrect": true
+        },
+        {
+          "text": "حمزة بن عبد المطلب",
+          "isCorrect": false
+        },
+        {
+          "text": "العباس بن عبد المطلب",
+          "isCorrect": false
+        },
+        {
+          "text": "أبو طالب بن عبد المطلب",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "question": "ما هو اللقب الذي أطلق على حمزة ؓ ؟",
+      "answers": [
+        {
+          "text": "أسد الله",
+          "isCorrect": true
+        },
+        {
+          "text": "سيف الله",
+          "isCorrect": false
+        },
+        {
+          "text": "فارس الإسلام",
+          "isCorrect": false
+        },
+        {
+          "text": "صقر قريش",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "question": "ما هي كنية العباس عم النبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "أبو الفضل",
+          "isCorrect": true
+        },
+        {
+          "text": "أبو الحسن",
+          "isCorrect": false
+        },
+        {
+          "text": "أبو عبد الله",
+          "isCorrect": false
+        },
+        {
+          "text": "أبو حمزة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "question": "من هو زوج زينب بنت النبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "أبو العاص بن الربيع ابن خالتها",
+          "isCorrect": true
+        },
+        {
+          "text": "عثمان بن عفان ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "علي بن أبي طالب ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "عبد الله بن عباس ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "question": "من هو خطيب النبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "ثابت بن قيس وقد استشهد في اليمامة",
+          "isCorrect": true
+        },
+        {
+          "text": "حسان بن ثابت وقد عاش طويلاً",
+          "isCorrect": false
+        },
+        {
+          "text": "عبد الله بن رواحة وقد استشهد في مؤتة",
+          "isCorrect": false
+        },
+        {
+          "text": "كعب بن مالك وقد توفي في المدينة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "question": "من هو أصغر أعمام النبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "حمزة بن عبد المطلب رضي الله عنه",
+          "isCorrect": true
+        },
+        {
+          "text": "العباس بن عبد المطلب رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "أبو طالب بن عبد المطلب",
+          "isCorrect": false
+        },
+        {
+          "text": "الحارث بن عبد المطلب",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "question": "من هو فاتح الحيرة ؟",
+      "answers": [
+        {
+          "text": "خالد بن الوليد رضي الله عنه",
+          "isCorrect": true
+        },
+        {
+          "text": "سعد بن أبي وقاص رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "أبو عبيدة بن الجراح رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "المثنى بن حارثة رضي الله عنه",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "question": "ما هي أول معركة بحرية خاضها المسلمون ؟",
+      "answers": [
+        {
+          "text": "ذات الصواري",
+          "isCorrect": true
+        },
+        {
+          "text": "فتح قبرص",
+          "isCorrect": false
+        },
+        {
+          "text": "فتح صقلية",
+          "isCorrect": false
+        },
+        {
+          "text": "معركة أبي قير",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "question": "ما هو الاسم الحقيقي لعبد المطلب جد النبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "شيبة الحمد",
+          "isCorrect": true
+        },
+        {
+          "text": "عامر بن هاشم",
+          "isCorrect": false
+        },
+        {
+          "text": "عمرو بن هاشم",
+          "isCorrect": false
+        },
+        {
+          "text": "المغيرة بن هاشم",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "question": "من أول من رمى سهماً في الإسلام ؟",
+      "answers": [
+        {
+          "text": "سعد بن أبي وقاص رضي الله عنه",
+          "isCorrect": true
+        },
+        {
+          "text": "حمزة بن عبد المطلب رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "علي بن أبي طالب رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "الزبير بن العوام رضي الله عنه",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "question": "من هو الصحابي الذي سماه النبي ﷺ غسيل الملائكة ؟",
+      "answers": [
+        {
+          "text": "حنظلة بن أبي عامر رضي الله عنه",
+          "isCorrect": true
+        },
+        {
+          "text": "مصعب بن عمير رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "جعفر بن أبي طالب رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "عبد الله بن حرام رضي الله عنه",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "question": "من هو قائد معركة بلاط الشهداء ؟",
+      "answers": [
+        {
+          "text": "عبد الرحمن الغافقي رضي الله عنه",
+          "isCorrect": true
+        },
+        {
+          "text": "موسى بن نصير",
+          "isCorrect": false
+        },
+        {
+          "text": "طارق بن زياد",
+          "isCorrect": false
+        },
+        {
+          "text": "عبد الرحمن الداخل",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "question": "من هو الذي كان يطلق عليه سيد القراء وهو من كتاب الوحي ؟",
+      "answers": [
+        {
+          "text": "أبي بن كعب رضي الله عنه",
+          "isCorrect": true
+        },
+        {
+          "text": "زيد بن ثابت رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "عبد الله بن مسعود رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "معاوية بن أبي سفيان رضي الله عنه",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "question": "من هو قائد معركة نهاوند ؟",
+      "answers": [
+        {
+          "text": "النعمان بن مقرن رضي الله عنه",
+          "isCorrect": true
+        },
+        {
+          "text": "سعد بن أبي وقاص رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "خالد بن الوليد رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "عمرو بن العاص رضي الله عنه",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "question": "من هو أول من دفن في البقيع من المسلمين ؟",
+      "answers": [
+        {
+          "text": "أسعد بن زرارة رضي الله عنه",
+          "isCorrect": true
+        },
+        {
+          "text": "سعد بن معاذ رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "عثمان بن مظعون رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "مصعب بن عمير رضي الله عنه",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "question": "من هي أخت الرسول ﷺ من الرضاعة ؟",
+      "answers": [
+        {
+          "text": "الشيماء رضي الله عنها",
+          "isCorrect": true
+        },
+        {
+          "text": "حليمة السعدية رضي الله عنها",
+          "isCorrect": false
+        },
+        {
+          "text": "فاطمة بنت أسد رضي الله عنها",
+          "isCorrect": false
+        },
+        {
+          "text": "أم أيمن رضي الله عنها",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "question": "من هو أكثر الصحابة رواية للحديث ؟",
+      "answers": [
+        {
+          "text": "أبو هريرة رضي الله عنه",
+          "isCorrect": true
+        },
+        {
+          "text": "عبد الله بن عمر رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "أنس بن مالك رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "عائشة بنت أبي بكر رضي الله عنها",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "question": "من هو الذي جمع الناس في التراويح ؟",
+      "answers": [
+        {
+          "text": "عمر بن الخطاب رضي الله عنه",
+          "isCorrect": true
+        },
+        {
+          "text": "أبو بكر الصديق رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "عثمان بن عفان رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "علي بن أبي طالب رضي الله عنه",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "question": "من هو الصحابي الذي بارز عمرو بن ود في غزوة الأحزاب وقتله ؟",
+      "answers": [
+        {
+          "text": "علي بن أبي طالب رضي الله عنه",
+          "isCorrect": true
+        },
+        {
+          "text": "حمزة بن عبد المطلب رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "الزبير بن العوام رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "سعد بن أبي وقاص رضي الله عنه",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "question": "من هو الصحابي الذي لقبه النبي ﷺ بالشهيد الحي ؟",
+      "answers": [
+        {
+          "text": "طلحة بن عبيد الله رضي الله عنه",
+          "isCorrect": true
+        },
+        {
+          "text": "الزبير بن العوام رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "سعد بن أبي وقاص رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "عبد الرحمن بن عوف رضي الله عنه",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "question": "من هو الصحابي الذي بايع الرسول ﷺ أن لا يسأل الناس شيئاً ؟",
+      "answers": [
+        {
+          "text": "ثوبان رضي الله عنه مولى رسول الله ﷺ",
+          "isCorrect": true
+        },
+        {
+          "text": "أبو ذر الغفاري رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "بلال بن رباح رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "سلمان الفارسي رضي الله عنه",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "question": "كم هي مدة خلافة أبي بكر الصديق ؟",
+      "answers": [
+        {
+          "text": "سنتان وثلاثة أشهر",
+          "isCorrect": true
+        },
+        {
+          "text": "ثلاث سنوات",
+          "isCorrect": false
+        },
+        {
+          "text": "سنة ونصف",
+          "isCorrect": false
+        },
+        {
+          "text": "أربع سنوات",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "question": "كم تعادل الصلاة في المسجد الحرام ؟",
+      "answers": [
+        {
+          "text": "مائة ألف صلاة",
+          "isCorrect": true
+        },
+        {
+          "text": "ألف صلاة",
+          "isCorrect": false
+        },
+        {
+          "text": "خمسمائة صلاة",
+          "isCorrect": false
+        },
+        {
+          "text": "عشرة آلاف صلاة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "question": "ما أول هدية أهديت إلى النبي ﷺ بالمدينة ؟",
+      "answers": [
+        {
+          "text": "قصعة خبزاً وسمناً ولبناً من زيد بن حارثة",
+          "isCorrect": true
+        },
+        {
+          "text": "ثوب من أبي أيوب الأنصاري ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "تمر ولبن من سعد بن عبادة ؓ",
+          "isCorrect": false
+        },
+        {
+          "text": "سيف من أسعد بن زرارة ؓ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "question": "ما أول ما تكلم به رسول الله ﷺ حين قدم المدينة ؟",
+      "answers": [
+        {
+          "text": "صلوا الأرحام ، وصلوا والناس نيام تدخلوا الجنة بسلام",
+          "isCorrect": true
+        },
+        {
+          "text": "إنما الأعمال بالنيات وإنما لكل امرئ ما نوى",
+          "isCorrect": false
+        },
+        {
+          "text": "أفشوا السلام وأطعموا الطعام",
+          "isCorrect": false
+        },
+        {
+          "text": "لا يؤمن أحدكم حتى يحب لأخيه ما يحب لنفسه",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "question": "من أول من نقض العهد مع الرسول ﷺ من القبائل اليهودية ؟",
+      "answers": [
+        {
+          "text": "يهود بني قينقاع",
+          "isCorrect": true
+        },
+        {
+          "text": "يهود بني النضير",
+          "isCorrect": false
+        },
+        {
+          "text": "يهود بني قريظة",
+          "isCorrect": false
+        },
+        {
+          "text": "يهود خيبر",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "question": "ما أول جيش خرج من المدينة بعد وفاة الرسول ﷺ ؟",
+      "answers": [
+        {
+          "text": "جيش أسامة بن زيد رضي الله عنه",
+          "isCorrect": true
+        },
+        {
+          "text": "جيش خالد بن الوليد رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "جيش أبي عبيدة بن الجراح رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "جيش عمرو بن العاص رضي الله عنه",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "question": "ما أول صلاة فرضت على النبي ﷺ ؟",
+      "answers": [
+        {
+          "text": "صلاة الظهر",
+          "isCorrect": true
+        },
+        {
+          "text": "صلاة الفجر",
+          "isCorrect": false
+        },
+        {
+          "text": "صلاة العصر",
+          "isCorrect": false
+        },
+        {
+          "text": "صلاة المغرب",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "question": "من أول من أظهر التوحيد بمكة ؟",
+      "answers": [
+        {
+          "text": "قس بن ساعدة وورقة بن نوفل",
+          "isCorrect": true
+        },
+        {
+          "text": "زيد بن عمرو بن نفيل وعبيد الله بن جحش",
+          "isCorrect": false
+        },
+        {
+          "text": "أمية بن أبي الصلت وعثمان بن الحويرث",
+          "isCorrect": false
+        },
+        {
+          "text": "عبد المطلب بن هاشم وهاشم بن عبد مناف",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "question": "من أول من قتل من المشركين في غزوة بدر الكبرى؟",
+      "answers": [
+        {
+          "text": "الأسود بن عبد الأسد المخزومي",
+          "isCorrect": true
+        },
+        {
+          "text": "أمية بن خلف القرشي",
+          "isCorrect": false
+        },
+        {
+          "text": "أبو جهل عمرو بن هشام",
+          "isCorrect": false
+        },
+        {
+          "text": "عتبة بن ربيعة",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "question": "من هي أول امرأة بكر هاجرت؟",
+      "answers": [
+        {
+          "text": "أم كلثوم بنت عقبة بن أبي معيط",
+          "isCorrect": true
+        },
+        {
+          "text": "أسماء بنت أبي بكر الصديق",
+          "isCorrect": false
+        },
+        {
+          "text": "رقية بنت رسول الله صلى الله عليه وسلم",
+          "isCorrect": false
+        },
+        {
+          "text": "فاطمة بنت قيس",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "question": "من أول من ولي بيت المال؟",
+      "answers": [
+        {
+          "text": "أبو عبيدة الجراح",
+          "isCorrect": true
+        },
+        {
+          "text": "عمر بن الخطاب",
+          "isCorrect": false
+        },
+        {
+          "text": "عثمان بن عفان",
+          "isCorrect": false
+        },
+        {
+          "text": "عبد الرحمن بن عوف",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "question": "من أول أمير في الإسلام؟",
+      "answers": [
+        {
+          "text": "عبد الله بن جحش الأسدي",
+          "isCorrect": true
+        },
+        {
+          "text": "حمزة بن عبد المطلب",
+          "isCorrect": false
+        },
+        {
+          "text": "سعد بن أبي وقاص",
+          "isCorrect": false
+        },
+        {
+          "text": "الزبير بن العوام",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "question": "من أول مسلم ركب بحر الروم؟",
+      "answers": [
+        {
+          "text": "معاوية بن أبي سفيان",
+          "isCorrect": true
+        },
+        {
+          "text": "عمرو بن العاص",
+          "isCorrect": false
+        },
+        {
+          "text": "خالد بن الوليد",
+          "isCorrect": false
+        },
+        {
+          "text": "أبو عبيدة بن الجراح",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "question": "من هو الصحابي الذي كانت الملائكة تسلم عليه؟",
+      "answers": [
+        {
+          "text": "عمران بن حصين رضي الله عنه",
+          "isCorrect": true
+        },
+        {
+          "text": "أبو هريرة رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "سلمان الفارسي رضي الله عنه",
+          "isCorrect": false
+        },
+        {
+          "text": "أبو الدرداء رضي الله عنه",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "question": "ما هو ثاني مسجد صلى النبي صلى الله عليه وسلم فيه الجمعة؟",
+      "answers": [
+        {
+          "text": "مسجد جواثا",
+          "isCorrect": true
+        },
+        {
+          "text": "المسجد النبوي",
+          "isCorrect": false
+        },
+        {
+          "text": "مسجد قباء",
+          "isCorrect": false
+        },
+        {
+          "text": "المسجد الأقصى",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "question": "من الذي لقبه الرسول الكريم بالطيب المطيب؟",
+      "answers": [
+        {
+          "text": "عمار بن ياسر",
+          "isCorrect": true
+        },
+        {
+          "text": "سلمان الفارسي",
+          "isCorrect": false
+        },
+        {
+          "text": "بلال بن رباح",
+          "isCorrect": false
+        },
+        {
+          "text": "صهيب الرومي",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

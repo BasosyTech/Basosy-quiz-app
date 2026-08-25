@@ -1,0 +1,611 @@
+{
+  "category": "اسلامي عام",
+  "questions": [
+    {
+      "id": 1,
+      "question": "ما أول هدية أهديت إلى الرسول صلى الله عليه وسلم بالمدينة؟",
+      "answers": [
+        {
+          "text": "قصعة من الثريد (خبز مَفْتُوت) مخلوط بالسمن واللبن وهي هدية من زيد بن حارثة",
+          "isCorrect": true
+        },
+        {
+          "text": "قصعة تمراً وعسلاً ولبناً وهي هدية من أبي بكر الصديق",
+          "isCorrect": false
+        },
+        {
+          "text": "قصعة خبزاً وزيتاً وعسلاً وهي هدية من سعد بن معاذ",
+          "isCorrect": false
+        },
+        {
+          "text": "قصعة لحماً ولبناً وتمراً وهي هدية من عمر بن الخطاب",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "من أول من صام؟",
+      "answers": [
+        { "text": "آدم عليه السلام", "isCorrect": true },
+        { "text": "نوح عليه السلام", "isCorrect": false },
+        { "text": "إبراهيم عليه السلام", "isCorrect": false },
+        { "text": "موسى عليه السلام", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "من أول من صنف تفسير القرآن الكريم بالإسناد؟",
+      "answers": [
+        { "text": "مالك بن أنس", "isCorrect": true },
+        { "text": "محمد بن إدريس الشافعي", "isCorrect": false },
+        { "text": "أحمد بن حنبل", "isCorrect": false },
+        { "text": "سفيان الثوري", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "ما أول جبل وضع في الأرض؟",
+      "answers": [
+        { "text": "جبل أبي قبيس بمكة", "isCorrect": true },
+        { "text": "جبل عرفات بمكة", "isCorrect": false },
+        { "text": "جبل حراء بمكة", "isCorrect": false },
+        { "text": "جبل ثور بمكة", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "من أول داعية إسلامي؟",
+      "answers": [
+        { "text": "مصعب بن عمير", "isCorrect": true },
+        { "text": "بلال بن رباح", "isCorrect": false },
+        { "text": "معاذ بن جبل", "isCorrect": false },
+        { "text": "عبد الله بن مسعود", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "من أول من أضاف اسم الله إلى اسمه من الخلفاء؟",
+      "answers": [
+        { "text": "المعتصم بالله", "isCorrect": true },
+        { "text": "المتوكل على الله", "isCorrect": false },
+        { "text": "الواثق بالله", "isCorrect": false },
+        { "text": "المستعين بالله", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "من أول من فتق لسانه بالعربية؟",
+      "answers": [
+        { "text": "إسماعيل عليه السلام", "isCorrect": true },
+        { "text": "إبراهيم عليه السلام", "isCorrect": false },
+        { "text": "يعقوب عليه السلام", "isCorrect": false },
+        { "text": "يوسف عليه السلام", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "من أول من طاف بالبيت العتيق؟",
+      "answers": [
+        { "text": "الملائكة", "isCorrect": true },
+        { "text": "آدم عليه السلام", "isCorrect": false },
+        { "text": "إبراهيم عليه السلام", "isCorrect": false },
+        { "text": "إسماعيل عليه السلام", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "من أول من استلم الحجر الأسود من الأئمة؟",
+      "answers": [
+        { "text": "ابن الزبير", "isCorrect": true },
+        { "text": "ابن عباس", "isCorrect": false },
+        { "text": "عبد الله بن عمر", "isCorrect": false },
+        { "text": "عبد الله بن مسعود", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "ما أول سورة نزلت في مكة المكرمة؟",
+      "answers": [
+        { "text": "العلق", "isCorrect": true },
+        { "text": "المدثر", "isCorrect": false },
+        { "text": "الفاتحة", "isCorrect": false },
+        { "text": "المزمل", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "من أول من اتخذ الدفاتر للدولة؟",
+      "answers": [
+        { "text": "يوسف عليه السلام", "isCorrect": true },
+        { "text": "عمر بن الخطاب رضي الله عنه", "isCorrect": false },
+        { "text": "داود عليه السلام", "isCorrect": false },
+        { "text": "سليمان عليه السلام", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "من أول من يفيق بعد النفخ في الصور؟",
+      "answers": [
+        { "text": "الرسول صلى الله عليه وسلم", "isCorrect": true },
+        { "text": "إسرافيل عليه السلام", "isCorrect": false },
+        { "text": "جبريل عليه السلام", "isCorrect": false },
+        { "text": "ميكائيل عليه السلام", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "من أول من نقض العهد مع الرسول صلى الله عليه وسلم من القبائل اليهودية؟",
+      "answers": [
+        { "text": "يهود بني قينقاع", "isCorrect": true },
+        { "text": "يهود بني النضير", "isCorrect": false },
+        { "text": "يهود بني قريظة", "isCorrect": false },
+        { "text": "يهود خيبر", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "ما أول دار بنيت في مكة؟",
+      "answers": [
+        { "text": "دار الندوة", "isCorrect": true },
+        { "text": "دار الأرقم", "isCorrect": false },
+        { "text": "دار أبي سفيان", "isCorrect": false },
+        { "text": "دار أبي طالب", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "من أول من أدخل عبادة الأصنام؟",
+      "answers": [
+        { "text": "أبو خزاعة عمرو بن لحي", "isCorrect": true },
+        { "text": "أمية بن خلف", "isCorrect": false },
+        { "text": "أبو سفيان بن حرب", "isCorrect": false },
+        { "text": "الوليد بن المغيرة", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 16,
+      "question": "من أول من سل سيفًا في سبيل الله؟",
+      "answers": [
+        { "text": "الزبير بن العوام", "isCorrect": true },
+        { "text": "حمزة بن عبد المطلب", "isCorrect": false },
+        { "text": "علي بن أبي طالب", "isCorrect": false },
+        { "text": "خالد بن الوليد", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 17,
+      "question": "من أول من قال أما بعد؟",
+      "answers": [
+        { "text": "نبي الله داود عليه السلام", "isCorrect": true },
+        { "text": "نبي الله سليمان عليه السلام", "isCorrect": false },
+        { "text": "نبي الله موسى عليه السلام", "isCorrect": false },
+        { "text": "نبي الله إبراهيم عليه السلام", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 18,
+      "question": "من أول قاضي في البصرة؟",
+      "answers": [
+        { "text": "أبو مريم الحنفي", "isCorrect": true },
+        { "text": "أبو موسى الأشعري", "isCorrect": false },
+        { "text": "شريح القاضي", "isCorrect": false },
+        { "text": "الحسن البصري", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 19,
+      "question": "من أول قاضي في مصر الإسلامية؟",
+      "answers": [
+        { "text": "قيس بن أبي العاص", "isCorrect": true },
+        { "text": "عمرو بن العاص", "isCorrect": false },
+        { "text": "عبد الله بن سعد بن أبي سرح", "isCorrect": false },
+        { "text": "معاوية بن حديج", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 20,
+      "question": "من أول من عمل الأوزان؟",
+      "answers": [
+        { "text": "الحجاج بن يوسف", "isCorrect": true },
+        { "text": "عبد الملك بن مروان", "isCorrect": false },
+        { "text": "عمر بن الخطاب", "isCorrect": false },
+        { "text": "معاوية بن أبي سفيان", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 21,
+      "question": "من أول من أمر بتجويف المحاريب؟",
+      "answers": [
+        { "text": "الوليد بن عبد الملك", "isCorrect": true },
+        { "text": "عبد الملك بن مروان", "isCorrect": false },
+        { "text": "عمر بن عبد العزيز", "isCorrect": false },
+        { "text": "هشام بن عبد الملك", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 22,
+      "question": "من أول من فرش المسجد بالحصبة؟",
+      "answers": [
+        { "text": "عمر بن الخطاب", "isCorrect": true },
+        { "text": "أبو بكر الصديق", "isCorrect": false },
+        { "text": "عثمان بن عفان", "isCorrect": false },
+        { "text": "علي بن أبي طالب", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 23,
+      "question": "ما أول جيش خرج من المدينة بعد وفاة الرسول صلى الله عليه وسلم؟",
+      "answers": [
+        { "text": "جيش سلمة بن الزبير", "isCorrect": false },
+        { "text": "جيش أسامة بن زيد", "isCorrect": true },
+        { "text": "جيش خالد بن الوليد", "isCorrect": false },
+        { "text": "جيش عمرو بن العاص", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 24,
+      "question": "ما أول صلاة فرضت على الرسول صلى الله عليه وسلم؟",
+      "answers": [
+        { "text": "صلاة الظهر", "isCorrect": true },
+        { "text": "صلاة الفجر", "isCorrect": false },
+        { "text": "صلاة العصر", "isCorrect": false },
+        { "text": "صلاة المغرب", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 25,
+      "question": "من أول من أظهر التوحيد بمكة؟",
+      "answers": [
+        { "text": "قس بن ساعدة وورقة بن نوفل", "isCorrect": true },
+        { "text": "عبد المطلب وأبو طالب", "isCorrect": false },
+        { "text": "زيد بن عمرو وورقة بن نوفل", "isCorrect": false },
+        { "text": "أبو بكر وعثمان بن عفان", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 26,
+      "question": "من أول من بنى السجون في الإسلام؟",
+      "answers": [
+        { "text": "علي بن أبي طالب رضي الله عنه", "isCorrect": true },
+        { "text": "عمر بن الخطاب رضي الله عنه", "isCorrect": false },
+        { "text": "عثمان بن عفان رضي الله عنه", "isCorrect": false },
+        { "text": "معاوية بن أبي سفيان رضي الله عنه", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 27,
+      "question": "من هم دهاة العرب الأربعة؟",
+      "answers": [
+        {
+          "text": "معاوية بن أبي سفيان، عمرو بن العاص، المغيرة بن شعبة، زياد ابن ابيه",
+          "isCorrect": true
+        },
+        {
+          "text": "معاذ بن جبل، عمار بن ياسر، مصعب بن عمير، بلال بن رباح",
+          "isCorrect": false
+        },
+        {
+          "text": "أبو عبيدة، الزبير بن العوام، عمرو بن العاص، سعد بن ابي وقاص",
+          "isCorrect": false
+        },
+        {
+          "text": "ابن عباس، ابن مسعود، معاذ بن جبل ، زيد بن ثابت",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "question": "من هو الذي كانت تستحي منه ملائكة السماء؟",
+      "answers": [
+        { "text": "عثمان بن عفان رضي الله عنه", "isCorrect": true },
+        { "text": "أبو بكر الصديق رضي الله عنه", "isCorrect": false },
+        { "text": "عمر بن الخطاب رضي الله عنه", "isCorrect": false },
+        { "text": "علي بن أبي طالب رضي الله عنه", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 29,
+      "question": "كم دامت سنوات خلافة أبي بكر وعمر وعثمان وعلي رضي الله عنهم؟",
+      "answers": [
+        {
+          "text": "أبو بكر سنتين، عمر عشر سنوات، عثمان اثنا عشر، علي ست سنوات",
+          "isCorrect": true
+        },
+        {
+          "text": "أبو بكر ثلاث سنوات، عمر عشر سنوات، عثمان عشر سنوات، علي خمس سنوات",
+          "isCorrect": false
+        },
+        {
+          "text": "أبو بكر سنتين، عمر اثنتي عشرة سنة، عثمان عشر سنوات، علي خمس سنوات",
+          "isCorrect": false
+        },
+        {
+          "text": "أبو بكر أربع سنوات، عمر عشر سنوات، عثمان اثنتي عشرة سنة، علي سبع سنوات",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "question": "ما المسجد الذي استشهد فيه علي بن أبي طالب رضي الله عنه؟",
+      "answers": [
+        { "text": "مسجد الكوفة", "isCorrect": true },
+        { "text": "المسجد النبوي", "isCorrect": false },
+        { "text": "مسجد البصرة", "isCorrect": false },
+        { "text": "المسجد الحرام", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 31,
+      "question": "ما هو الحج الأصغر؟",
+      "answers": [
+        { "text": "العمرة", "isCorrect": true },
+        { "text": "حجة الوداع", "isCorrect": false },
+        { "text": "حج التمتع", "isCorrect": false },
+        { "text": "حج القِران", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 32,
+      "question": "ما أعظم سورة في القرآن الكريم؟",
+      "answers": [
+        { "text": "الفاتحة", "isCorrect": true },
+        { "text": "البقرة", "isCorrect": false },
+        { "text": "يس", "isCorrect": false },
+        { "text": "الإخلاص", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 33,
+      "question": "ما هي السورة التي لا تحوي حرف الميم؟",
+      "answers": [
+        { "text": "سورة الكوثر", "isCorrect": true },
+        { "text": "سورة العصر", "isCorrect": false },
+        { "text": "سورة الفلق", "isCorrect": false },
+        { "text": "سورة الناس", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 34,
+      "question": "كم عدد من قتل من المسلمين في غزوة مؤتة؟",
+      "answers": [
+        { "text": "12", "isCorrect": true },
+        { "text": "14", "isCorrect": false },
+        { "text": "17", "isCorrect": false },
+        { "text": "20", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 35,
+      "question": "ما هي السورة التي تسمى سورة المنافقين؟",
+      "answers": [
+        { "text": "التوبة", "isCorrect": true },
+        { "text": "المنافقون", "isCorrect": false },
+        { "text": "الحشر", "isCorrect": false },
+        { "text": "الصف", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 36,
+      "question": "كم عدد السور التي افتتحت بثلاثة أحرف؟",
+      "answers": [
+        { "text": "13 سورة", "isCorrect": true },
+        { "text": "14 سورة", "isCorrect": false },
+        { "text": "12 سورة", "isCorrect": false },
+        { "text": "15 سورة", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 37,
+      "question": "في أي الغزوات أسرت الشيماء أخت الرسول صلى الله عليه وسلم من الرضاعة؟",
+      "answers": [
+        { "text": "غزوة حنين", "isCorrect": true },
+        { "text": "غزوة الطائف", "isCorrect": false },
+        { "text": "غزوة بدر", "isCorrect": false },
+        { "text": "غزوة أحد", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 38,
+      "question": "من أسد الله؟",
+      "answers": [
+        { "text": "حمزة بن عبد المطلب", "isCorrect": true },
+        { "text": "علي بن أبي طالب", "isCorrect": false },
+        { "text": "خالد بن الوليد", "isCorrect": false },
+        { "text": "الزبير بن العوام", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 39,
+      "question": "من الذي اهتز لموته عرش الرحمن؟",
+      "answers": [
+        { "text": "سعد بن معاذ رضي الله عنه", "isCorrect": true },
+        { "text": "سعد بن أبي وقاص رضي الله عنه", "isCorrect": false },
+        { "text": "حمزة بن عبد المطلب رضي الله عنه", "isCorrect": false },
+        { "text": "مصعب بن عمير رضي الله عنه", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 40,
+      "question": "من هي المجادلة ومن زوجها؟",
+      "answers": [
+        { "text": "خولة بنت ثعلبة، زوجها أوس", "isCorrect": true },
+        { "text": "خولة بنت حكيم، زوجها عثمان بن مظعون", "isCorrect": false },
+        { "text": "أم سلمة، زوجها أبو سلمة", "isCorrect": false },
+        { "text": "أسماء بنت يزيد، زوجها معاذ بن جبل", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 41,
+      "question": "من أول من جمع القرآن الكريم في مصحف واحد؟",
+      "answers": [
+        { "text": "أبو بكر الصديق رضي الله عنه", "isCorrect": true },
+        { "text": "عمر بن الخطاب رضي الله عنه", "isCorrect": false },
+        { "text": "عثمان بن عفان رضي الله عنه", "isCorrect": false },
+        { "text": "علي بن أبي طالب رضي الله عنه", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 42,
+      "question": "ما أول غزوة غزاها النبي صلى الله عليه وسلم؟",
+      "answers": [
+        { "text": "غزوة الأبواء", "isCorrect": true },
+        { "text": "غزوة بدر", "isCorrect": false },
+        { "text": "غزوة أحد", "isCorrect": false },
+        { "text": "غزوة الخندق", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 43,
+      "question": "من أول من لقب بأمير المؤمنين؟",
+      "answers": [
+        { "text": "عمر بن الخطاب رضي الله عنه", "isCorrect": true },
+        { "text": "أبو بكر الصديق رضي الله عنه", "isCorrect": false },
+        { "text": "عثمان بن عفان رضي الله عنه", "isCorrect": false },
+        { "text": "علي بن أبي طالب رضي الله عنه", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 44,
+      "question": "من هو سيف الله المسلول؟",
+      "answers": [
+        { "text": "خالد بن الوليد رضي الله عنه", "isCorrect": true },
+        { "text": "حمزة بن عبد المطلب رضي الله عنه", "isCorrect": false },
+        { "text": "علي بن أبي طالب رضي الله عنه", "isCorrect": false },
+        { "text": "الزبير بن العوام رضي الله عنه", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 45,
+      "question": "من هو أمين هذه الأمة؟",
+      "answers": [
+        { "text": "أبو عبيدة بن الجراح رضي الله عنه", "isCorrect": true },
+        { "text": "أبو بكر الصديق رضي الله عنه", "isCorrect": false },
+        { "text": "معاذ بن جبل رضي الله عنه", "isCorrect": false },
+        { "text": "سعد بن أبي وقاص رضي الله عنه", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 46,
+      "question": "من هو حواري رسول الله صلى الله عليه وسلم؟",
+      "answers": [
+        { "text": "الزبير بن العوام رضي الله عنه", "isCorrect": true },
+        { "text": "طلحة بن عبيد الله رضي الله عنه", "isCorrect": false },
+        { "text": "سعد بن أبي وقاص رضي الله عنه", "isCorrect": false },
+        { "text": "عبد الرحمن بن عوف رضي الله عنه", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 47,
+      "question": "من هو ترجمان القرآن؟",
+      "answers": [
+        { "text": "عبد الله بن عباس رضي الله عنهما", "isCorrect": true },
+        { "text": "عبد الله بن مسعود رضي الله عنه", "isCorrect": false },
+        { "text": "زيد بن ثابت رضي الله عنه", "isCorrect": false },
+        { "text": "أبو هريرة رضي الله عنه", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 48,
+      "question": "من هو حب رسول الله صلى الله عليه وسلم؟",
+      "answers": [
+        { "text": "أسامة بن زيد رضي الله عنه", "isCorrect": true },
+        { "text": "زيد بن ثابت رضي الله عنه", "isCorrect": false },
+        { "text": "معاذ بن جبل رضي الله عنه", "isCorrect": false },
+        { "text": "عبد الله بن عباس رضي الله عنه", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 49,
+      "question": "ما السورة التي تعدل ثلث القرآن؟",
+      "answers": [
+        { "text": "سورة الإخلاص", "isCorrect": true },
+        { "text": "سورة الفاتحة", "isCorrect": false },
+        { "text": "سورة الكافرون", "isCorrect": false },
+        { "text": "سورة الناس", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 50,
+      "question": "ما أطول سورة في القرآن الكريم؟",
+      "answers": [
+        { "text": "سورة البقرة", "isCorrect": true },
+        { "text": "سورة آل عمران", "isCorrect": false },
+        { "text": "سورة النساء", "isCorrect": false },
+        { "text": "سورة المائدة", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 51,
+      "question": "ما أقصر سورة في القرآن الكريم؟",
+      "answers": [
+        { "text": "سورة الكوثر", "isCorrect": true },
+        { "text": "سورة العصر", "isCorrect": false },
+        { "text": "سورة الإخلاص", "isCorrect": false },
+        { "text": "سورة الفلق", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 52,
+      "question": "كم عدد سور القرآن الكريم؟",
+      "answers": [
+        { "text": "114 سورة", "isCorrect": true },
+        { "text": "113 سورة", "isCorrect": false },
+        { "text": "115 سورة", "isCorrect": false },
+        { "text": "116 سورة", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 53,
+      "question": "ما السورة التي لا تبدأ بالبسملة؟",
+      "answers": [
+        { "text": "سورة التوبة", "isCorrect": true },
+        { "text": "سورة الأنفال", "isCorrect": false },
+        { "text": "سورة النمل", "isCorrect": false },
+        { "text": "سورة يونس", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 54,
+      "question": "ما السورة التي وردت فيها البسملة مرتين؟",
+      "answers": [
+        { "text": "سورة النمل", "isCorrect": true },
+        { "text": "سورة التوبة", "isCorrect": false },
+        { "text": "سورة القصص", "isCorrect": false },
+        { "text": "سورة يوسف", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 55,
+      "question": "من هو أول رسول إلى أهل الأرض؟",
+      "answers": [
+        { "text": "نوح عليه السلام", "isCorrect": true },
+        { "text": "آدم عليه السلام", "isCorrect": false },
+        { "text": "إبراهيم عليه السلام", "isCorrect": false },
+        { "text": "موسى عليه السلام", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 56,
+      "question": "من هو خليل الله؟",
+      "answers": [
+        { "text": "إبراهيم عليه السلام", "isCorrect": true },
+        { "text": "موسى عليه السلام", "isCorrect": false },
+        { "text": "نوح عليه السلام", "isCorrect": false },
+        { "text": "عيسى عليه السلام", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 57,
+      "question": "من هو كليم الله؟",
+      "answers": [
+        { "text": "موسى عليه السلام", "isCorrect": true },
+        { "text": "إبراهيم عليه السلام", "isCorrect": false },
+        { "text": "عيسى عليه السلام", "isCorrect": false },
+        { "text": "نوح عليه السلام", "isCorrect": false }
+      ]
+    }
+  ]
+}

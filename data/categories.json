@@ -1,0 +1,14 @@
+[
+  {
+    "logicalName":"faith_law",
+    "uiName": "الفقه والعقيدة"
+  },
+  {
+    "logicalName": "islamic",
+    "uiName": "اسلامي عام"
+  },
+  {
+    "logicalName": "islamic_history",
+    "uiName": "التاريخ الاسلامي"
+  }
+]
