@@ -10,7 +10,7 @@ The quiz content is stored in JSON files, making it easy to add new categories a
 
 ## 🎮 Live Demo
 
-🔗[ _Add your live demo link here_](https://basosytech.github.io/Basosy-quiz-app/)
+🔗https://basosytech.github.io/Basosy-quiz-app/
 
 ---
 
