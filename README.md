@@ -91,7 +91,7 @@ Answers for each selected question are then shuffled independently before being 
 
 ## 📁 Project Structure
 
-```text
+
 Quiz-App/
 │
 ├── data/
@@ -111,6 +111,7 @@ Quiz-App/
 ├── index.html
 ├── main.js
 └── master.css
+
 🗂 Data Format
 
 Categories are registered in categories.json:
