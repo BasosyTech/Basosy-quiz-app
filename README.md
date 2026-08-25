@@ -91,7 +91,7 @@ Answers for each selected question are then shuffled independently before being 
 
 ## 📁 Project Structure
 
-
+```text
 Quiz-App/
 │
 ├── data/
@@ -111,22 +111,30 @@ Quiz-App/
 ├── index.html
 ├── main.js
 └── master.css
+```
 
-🗂 Data Format
+---
 
-Categories are registered in categories.json:
+## 🗂 Data Format
 
+Categories are registered in `categories.json`:
+
+```json
 {
   "logicalName": "islamic_history",
   "uiName": "التاريخ الإسلامي"
 }
+```
 
 Each category has its own JSON file:
 
+```text
 data/islamic_history.json
+```
 
 Example:
 
+```json
 {
   "category": "التاريخ الإسلامي",
   "questions": [
@@ -146,30 +154,51 @@ Example:
     }
   ]
 }
+```
 
-Each category should contain at least 15 questions, since the application selects 15 questions for every quiz.
+Each category should contain at least **15 questions**, since the application selects 15 questions for every quiz.
 
-🚀 How to Run
-Clone the repository.
+---
+
+## 🚀 How to Run
+
+1. Clone the repository.
+
+```bash
 git clone https://github.com/basosytech/Basosy-quiz-app.git
-Open the project folder.
-Run the project using a local development server such as VS Code Live Server.
+```
 
-A local server is recommended because the application loads JSON files using fetch().
+2. Open the project folder.
+3. Run the project using a local development server such as **VS Code Live Server**.
 
-📷 Screenshots
-Start Screen
+> A local server is recommended because the application loads JSON files using `fetch()`.
 
-Quiz Screen
+---
 
-Results Screen
+## 📷 Screenshots
 
-📄 License
+### Start Screen
+
+![Start Screen](screenshots/start.png)
+
+### Quiz Screen
+
+![Quiz](screenshots/quiz.png)
+
+### Results Screen
+
+![Results](screenshots/results.png)
+
+---
+
+## 📄 License
 
 This project is for learning and portfolio purposes.
 
-👨‍💻 Author
+---
 
-Abdo (BasosyTech)
+## 👨‍💻 Author
 
-GitHub: @BasosyTech
+**Abdo (BasosyTech)**
+
+- GitHub: [@BasosyTech](https://github.com/basosytech)
